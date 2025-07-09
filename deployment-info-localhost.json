@@ -1,0 +1,9 @@
+{
+  "network": "localhost",
+  "deFiPredictor": "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6",
+  "priceFeed": "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+  "admin": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+  "deployedAt": "2025-07-08T20:18:50.654Z",
+  "txHash": "0x118e6d2f485e90b3658f900edb13b96b170321a6f9942833ae5acf0c8a94dd46",
+  "mockAggregator": "0x0165878A594ca255338adfa4d48449f69242Eb8F"
+}

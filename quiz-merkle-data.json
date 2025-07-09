@@ -1,0 +1,2093 @@
+{
+  "merkleRoot": "0x6e75ec53aa4ca33919490d903020d1de45f53d04f3fb64feed2a4fe321bffea9",
+  "questions": [
+    {
+      "questionId": "Q1",
+      "question": "Which country won the first-ever FIFA World Cup? (Q1)",
+      "options": [
+        "Brazil",
+        "Germany",
+        "Italy",
+        "Uruguay"
+      ],
+      "correctAnswer": "Uruguay",
+      "answerIndex": 3,
+      "proof": [
+        "0xeaee366ea51d9fdc9b8305654285464f86ffe768d8176e0a80bd7613a497be88",
+        "0x9dca5696cc8086be24a5c64aa486f0a69fe0c425e6587bf039212c85531509f3",
+        "0xe261972ff5c3997aa1e88ec6d31eadb507fba39b5da7418b549875e63fbd79ed",
+        "0xf4c9384b80f292710b003e09336925f846f6fb4ede5912accf1add8127c78678",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q2",
+      "question": "Which cryptographic primitive enables Ethereum's zk-Rollups to validate transactions without revealing inputs? (Q2)",
+      "options": [
+        "Digital Signatures",
+        "SHA-256",
+        "Zero-Knowledge Proofs",
+        "BLS Signatures"
+      ],
+      "correctAnswer": "Zero-Knowledge Proofs",
+      "answerIndex": 2,
+      "proof": [
+        "0x10b5efcfac88dc9ed9808a1c53e3067ef382f21a53f7bf7166cf3ca1666d2ea4",
+        "0x9dca5696cc8086be24a5c64aa486f0a69fe0c425e6587bf039212c85531509f3",
+        "0xe261972ff5c3997aa1e88ec6d31eadb507fba39b5da7418b549875e63fbd79ed",
+        "0xf4c9384b80f292710b003e09336925f846f6fb4ede5912accf1add8127c78678",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q3",
+      "question": "Which team has won the most UEFA Champions League titles? (Q3)",
+      "options": [
+        "AC Milan",
+        "Real Madrid",
+        "Liverpool",
+        "Barcelona"
+      ],
+      "correctAnswer": "Real Madrid",
+      "answerIndex": 1,
+      "proof": [
+        "0x4a8d05959add61a494b38711eb981bb357d5a2cdafde1a29906c12dad01e3347",
+        "0x7c32d13f78f4c27c342b078ba52a865362bcedc8a6837b7b487908f6f3c7ea0e",
+        "0xe261972ff5c3997aa1e88ec6d31eadb507fba39b5da7418b549875e63fbd79ed",
+        "0xf4c9384b80f292710b003e09336925f846f6fb4ede5912accf1add8127c78678",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q4",
+      "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q4)",
+      "options": [
+        "Meltdown",
+        "Rowhammer",
+        "Spectre",
+        "Buffer Overflow"
+      ],
+      "correctAnswer": "Rowhammer",
+      "answerIndex": 1,
+      "proof": [
+        "0xd4afd6bf3c66554b42bcde4901a3c73cffc0adae32fb747fd2fd94210fceed72",
+        "0x7c32d13f78f4c27c342b078ba52a865362bcedc8a6837b7b487908f6f3c7ea0e",
+        "0xe261972ff5c3997aa1e88ec6d31eadb507fba39b5da7418b549875e63fbd79ed",
+        "0xf4c9384b80f292710b003e09336925f846f6fb4ede5912accf1add8127c78678",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q5",
+      "question": "What mechanism allows Solana to achieve high throughput? (Q5)",
+      "options": [
+        "Proof of Stake",
+        "DAG Consensus",
+        "Proof of History",
+        "Proof of Authority"
+      ],
+      "correctAnswer": "Proof of History",
+      "answerIndex": 2,
+      "proof": [
+        "0xfcff046633e057d9c42589f8bb8cbf28cc93b5391372f44153f948740fe4ddd5",
+        "0xde57211b0a93ad586d89bfb377fa6579bdfb83bac7991cb4ceb39809da519b89",
+        "0x3cb187b0e838379c9ff50c4eef5410cfb48445f17608937832e169bd069056e2",
+        "0xf4c9384b80f292710b003e09336925f846f6fb4ede5912accf1add8127c78678",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q6",
+      "question": "What protocol does Ethereum use for peer-to-peer communication? (Q6)",
+      "options": [
+        "UDP",
+        "TCP",
+        "LibP2P",
+        "gRPC"
+      ],
+      "correctAnswer": "LibP2P",
+      "answerIndex": 2,
+      "proof": [
+        "0xfe4c1b21f65cc86dcf8479a9b7276f83384798078168c62dc8deae1a189f4fbc",
+        "0xde57211b0a93ad586d89bfb377fa6579bdfb83bac7991cb4ceb39809da519b89",
+        "0x3cb187b0e838379c9ff50c4eef5410cfb48445f17608937832e169bd069056e2",
+        "0xf4c9384b80f292710b003e09336925f846f6fb4ede5912accf1add8127c78678",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q7",
+      "question": "Which cryptographic primitive enables Ethereum's zk-Rollups to validate transactions without revealing inputs? (Q7)",
+      "options": [
+        "Zero-Knowledge Proofs",
+        "BLS Signatures",
+        "Digital Signatures",
+        "SHA-256"
+      ],
+      "correctAnswer": "Zero-Knowledge Proofs",
+      "answerIndex": 0,
+      "proof": [
+        "0xd5a2961ed6297502c29299b7a3aaa0a7130afa351734c8703dac2c4c68dc375d",
+        "0x86dbf4a155c23e9903a434dd575615ea5974404b633a7dc44b884c3a1e9af3f8",
+        "0x3cb187b0e838379c9ff50c4eef5410cfb48445f17608937832e169bd069056e2",
+        "0xf4c9384b80f292710b003e09336925f846f6fb4ede5912accf1add8127c78678",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q8",
+      "question": "What is the purpose of a nonce in blockchain mining? (Q8)",
+      "options": [
+        "Generate unique hashes",
+        "Encrypt data",
+        "Random reward selection",
+        "Prevent DoS"
+      ],
+      "correctAnswer": "Generate unique hashes",
+      "answerIndex": 0,
+      "proof": [
+        "0x6a9581d39981b675b58f76e76bc799de02dff2b494f6050fefb31660b01a3827",
+        "0x86dbf4a155c23e9903a434dd575615ea5974404b633a7dc44b884c3a1e9af3f8",
+        "0x3cb187b0e838379c9ff50c4eef5410cfb48445f17608937832e169bd069056e2",
+        "0xf4c9384b80f292710b003e09336925f846f6fb4ede5912accf1add8127c78678",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q9",
+      "question": "Which civilization built the earliest known system of writing called cuneiform? (Q9)",
+      "options": [
+        "Babylonians",
+        "Sumerians",
+        "Assyrians",
+        "Egyptians"
+      ],
+      "correctAnswer": "Sumerians",
+      "answerIndex": 1,
+      "proof": [
+        "0x995a2da34bf5866a6d5aa85e70b60069ed82d72b3df8272b835fb8cb1d133d8f",
+        "0x61dc844c4d97ad93b694df50a0c5d758c695f97022406c2e7d0f5e129396a634",
+        "0xc078d725417970fae76c545f3ce9a28fb4a302a116472ce88a755970d2bc7471",
+        "0xd83cbc4f6e09d04c1241847e74c5f14ae982037301191dedfa1e17514525bfd2",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q10",
+      "question": "Which country won the first-ever FIFA World Cup? (Q10)",
+      "options": [
+        "Brazil",
+        "Uruguay",
+        "Italy",
+        "Germany"
+      ],
+      "correctAnswer": "Uruguay",
+      "answerIndex": 1,
+      "proof": [
+        "0xf7692c2c8c67f4a58fdeed422e77d990ec473840c4ff15a0f7602d4a5b30f07e",
+        "0x61dc844c4d97ad93b694df50a0c5d758c695f97022406c2e7d0f5e129396a634",
+        "0xc078d725417970fae76c545f3ce9a28fb4a302a116472ce88a755970d2bc7471",
+        "0xd83cbc4f6e09d04c1241847e74c5f14ae982037301191dedfa1e17514525bfd2",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q11",
+      "question": "Which civilization built the earliest known system of writing called cuneiform? (Q11)",
+      "options": [
+        "Egyptians",
+        "Assyrians",
+        "Babylonians",
+        "Sumerians"
+      ],
+      "correctAnswer": "Sumerians",
+      "answerIndex": 3,
+      "proof": [
+        "0x35bb40a2928c70be6d67afc59fa70a2ec57b8dd5ede093a1a37bf39cd5c78c42",
+        "0x2e8fd4e80d001ceb53b5286f12ca9d8e18dee0a33c6e23e85630fda2719e04ae",
+        "0xc078d725417970fae76c545f3ce9a28fb4a302a116472ce88a755970d2bc7471",
+        "0xd83cbc4f6e09d04c1241847e74c5f14ae982037301191dedfa1e17514525bfd2",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q12",
+      "question": "Which country won the first-ever FIFA World Cup? (Q12)",
+      "options": [
+        "Uruguay",
+        "Brazil",
+        "Italy",
+        "Germany"
+      ],
+      "correctAnswer": "Uruguay",
+      "answerIndex": 0,
+      "proof": [
+        "0x7b13d576ad3826368527ff3bc686ebf33095a6d6e7b3df241b5689f8067ad06d",
+        "0x2e8fd4e80d001ceb53b5286f12ca9d8e18dee0a33c6e23e85630fda2719e04ae",
+        "0xc078d725417970fae76c545f3ce9a28fb4a302a116472ce88a755970d2bc7471",
+        "0xd83cbc4f6e09d04c1241847e74c5f14ae982037301191dedfa1e17514525bfd2",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q13",
+      "question": "Who was the youngest Formula 1 World Champion in history? (Q13)",
+      "options": [
+        "Lewis Hamilton",
+        "Fernando Alonso",
+        "Sebastian Vettel",
+        "Max Verstappen"
+      ],
+      "correctAnswer": "Sebastian Vettel",
+      "answerIndex": 2,
+      "proof": [
+        "0xa5c1e16a55da334c8518c11788c026dd104a5c6e19df942f3dba36ebc42acb89",
+        "0x2e78f23919041c7b0d76f66236e6116aaa8cecab163341c0284cc8f2617ec239",
+        "0x175f238ad49169589a9b056528a1cea7b4839be62ae5de855378a89cdafc650e",
+        "0xd83cbc4f6e09d04c1241847e74c5f14ae982037301191dedfa1e17514525bfd2",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q14",
+      "question": "Who was the youngest Formula 1 World Champion in history? (Q14)",
+      "options": [
+        "Fernando Alonso",
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Sebastian Vettel"
+      ],
+      "correctAnswer": "Sebastian Vettel",
+      "answerIndex": 3,
+      "proof": [
+        "0x09b07167c24777ce4045ab8f8c7bf575760f30f9de53e7d418b00cfa318e634a",
+        "0x2e78f23919041c7b0d76f66236e6116aaa8cecab163341c0284cc8f2617ec239",
+        "0x175f238ad49169589a9b056528a1cea7b4839be62ae5de855378a89cdafc650e",
+        "0xd83cbc4f6e09d04c1241847e74c5f14ae982037301191dedfa1e17514525bfd2",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q15",
+      "question": "Which country won the first-ever FIFA World Cup? (Q15)",
+      "options": [
+        "Uruguay",
+        "Germany",
+        "Italy",
+        "Brazil"
+      ],
+      "correctAnswer": "Uruguay",
+      "answerIndex": 0,
+      "proof": [
+        "0x0eff205f54d82e2b9ef031ce97ee780021052e0c1d7526f3b2e6eefbaab73e0f",
+        "0x78063ddd83f4af00a2b56af446e9d68fd8e5fa372882548b15fc437ab67b7597",
+        "0x175f238ad49169589a9b056528a1cea7b4839be62ae5de855378a89cdafc650e",
+        "0xd83cbc4f6e09d04c1241847e74c5f14ae982037301191dedfa1e17514525bfd2",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q16",
+      "question": "Which cryptographic primitive enables Ethereum's zk-Rollups to validate transactions without revealing inputs? (Q16)",
+      "options": [
+        "Zero-Knowledge Proofs",
+        "SHA-256",
+        "BLS Signatures",
+        "Digital Signatures"
+      ],
+      "correctAnswer": "Zero-Knowledge Proofs",
+      "answerIndex": 0,
+      "proof": [
+        "0x28c6cd5d290551a0fb170ff0ce2a920b9afd95ac8934ab9c96ecf268d3993b4a",
+        "0x78063ddd83f4af00a2b56af446e9d68fd8e5fa372882548b15fc437ab67b7597",
+        "0x175f238ad49169589a9b056528a1cea7b4839be62ae5de855378a89cdafc650e",
+        "0xd83cbc4f6e09d04c1241847e74c5f14ae982037301191dedfa1e17514525bfd2",
+        "0xff02fe0c90a25384c88b5bf488a5a0f7ccb5fb1afc024089d4bdc8f896234eee",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q17",
+      "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q17)",
+      "options": [
+        "Meltdown",
+        "Buffer Overflow",
+        "Spectre",
+        "Rowhammer"
+      ],
+      "correctAnswer": "Rowhammer",
+      "answerIndex": 3,
+      "proof": [
+        "0xb3793dbde4f2095e2167a93b6d1562ebcfefa4b2ca1fb8a2972c8e34afaea8aa",
+        "0xd550f647e4dbeda9f48b48f68ba2a1f8ec6867718c58fb8d46cfd71a91245b7e",
+        "0x812cfff9ec3f3d048dbe969075b6ffef2de22922624cfed7cc23e83bbd8f25de",
+        "0x6c951216bcd535c64b1f6f37c5f139dc215b0be6eb410837b1f9da524a86fd6d",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q18",
+      "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q18)",
+      "options": [
+        "Buffer Overflow",
+        "Meltdown",
+        "Spectre",
+        "Rowhammer"
+      ],
+      "correctAnswer": "Rowhammer",
+      "answerIndex": 3,
+      "proof": [
+        "0x9bdda7484a1abea2462d0cdf0fa11ed4021ef719c61fae2f9afa594c991a6739",
+        "0xd550f647e4dbeda9f48b48f68ba2a1f8ec6867718c58fb8d46cfd71a91245b7e",
+        "0x812cfff9ec3f3d048dbe969075b6ffef2de22922624cfed7cc23e83bbd8f25de",
+        "0x6c951216bcd535c64b1f6f37c5f139dc215b0be6eb410837b1f9da524a86fd6d",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q19",
+      "question": "What protocol does Ethereum use for peer-to-peer communication? (Q19)",
+      "options": [
+        "UDP",
+        "TCP",
+        "gRPC",
+        "LibP2P"
+      ],
+      "correctAnswer": "LibP2P",
+      "answerIndex": 3,
+      "proof": [
+        "0x4d2e5cdb2b42d51f15008e510624ab9101270d3691bca7a6e5882d7ec7e261e7",
+        "0x858bbd534b99f3e253dcfc0b142a741760844ad8ce515c9f6b41dc254e64ab58",
+        "0x812cfff9ec3f3d048dbe969075b6ffef2de22922624cfed7cc23e83bbd8f25de",
+        "0x6c951216bcd535c64b1f6f37c5f139dc215b0be6eb410837b1f9da524a86fd6d",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q20",
+      "question": "What mechanism allows Solana to achieve high throughput? (Q20)",
+      "options": [
+        "Proof of Authority",
+        "Proof of Stake",
+        "DAG Consensus",
+        "Proof of History"
+      ],
+      "correctAnswer": "Proof of History",
+      "answerIndex": 3,
+      "proof": [
+        "0x28757a461267f83c666e0c33aa84b28d3c208ea34bf7a60fdcaa0b42fd26e104",
+        "0x858bbd534b99f3e253dcfc0b142a741760844ad8ce515c9f6b41dc254e64ab58",
+        "0x812cfff9ec3f3d048dbe969075b6ffef2de22922624cfed7cc23e83bbd8f25de",
+        "0x6c951216bcd535c64b1f6f37c5f139dc215b0be6eb410837b1f9da524a86fd6d",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q21",
+      "question": "What protocol does Ethereum use for peer-to-peer communication? (Q21)",
+      "options": [
+        "UDP",
+        "LibP2P",
+        "TCP",
+        "gRPC"
+      ],
+      "correctAnswer": "LibP2P",
+      "answerIndex": 1,
+      "proof": [
+        "0xbaeded74d9e122744469a2a082f6b977fecd9dc4f92cfb8400c49c6bb1ab0382",
+        "0x9f78070d6604de5ec82f2bc213279a94df327da46a2b06431bcd389a5820534b",
+        "0x4b1c155b85756c6c10e4125135454a0c7de5da1a7a9217fedc939ccf7a84cde2",
+        "0x6c951216bcd535c64b1f6f37c5f139dc215b0be6eb410837b1f9da524a86fd6d",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q22",
+      "question": "Which civilization built the earliest known system of writing called cuneiform? (Q22)",
+      "options": [
+        "Babylonians",
+        "Egyptians",
+        "Assyrians",
+        "Sumerians"
+      ],
+      "correctAnswer": "Sumerians",
+      "answerIndex": 3,
+      "proof": [
+        "0x3d10957568ba2bd5e17fdea02d238d98a927773bd72d37543a3c20d810ac08fd",
+        "0x9f78070d6604de5ec82f2bc213279a94df327da46a2b06431bcd389a5820534b",
+        "0x4b1c155b85756c6c10e4125135454a0c7de5da1a7a9217fedc939ccf7a84cde2",
+        "0x6c951216bcd535c64b1f6f37c5f139dc215b0be6eb410837b1f9da524a86fd6d",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q23",
+      "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q23)",
+      "options": [
+        "Rowhammer",
+        "Spectre",
+        "Buffer Overflow",
+        "Meltdown"
+      ],
+      "correctAnswer": "Rowhammer",
+      "answerIndex": 0,
+      "proof": [
+        "0xb3e269a6e0c145e939718fd1e8aae13770d537a65fe8f6f6453e3579be9ffa26",
+        "0x4fd993b7d2f690538cd6239df09efe2c0493e8fd85394fba68cb6bb0e889f3e1",
+        "0x4b1c155b85756c6c10e4125135454a0c7de5da1a7a9217fedc939ccf7a84cde2",
+        "0x6c951216bcd535c64b1f6f37c5f139dc215b0be6eb410837b1f9da524a86fd6d",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q24",
+      "question": "Which civilization built the earliest known system of writing called cuneiform? (Q24)",
+      "options": [
+        "Assyrians",
+        "Egyptians",
+        "Babylonians",
+        "Sumerians"
+      ],
+      "correctAnswer": "Sumerians",
+      "answerIndex": 3,
+      "proof": [
+        "0xcf7711f38d3086010f38f648fb690261484c215224074323858699f7b27ba496",
+        "0x4fd993b7d2f690538cd6239df09efe2c0493e8fd85394fba68cb6bb0e889f3e1",
+        "0x4b1c155b85756c6c10e4125135454a0c7de5da1a7a9217fedc939ccf7a84cde2",
+        "0x6c951216bcd535c64b1f6f37c5f139dc215b0be6eb410837b1f9da524a86fd6d",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q25",
+      "question": "Which civilization built the earliest known system of writing called cuneiform? (Q25)",
+      "options": [
+        "Egyptians",
+        "Babylonians",
+        "Sumerians",
+        "Assyrians"
+      ],
+      "correctAnswer": "Sumerians",
+      "answerIndex": 2,
+      "proof": [
+        "0xcd02d808ba03568208d8e48441aa2d591d23fe9729d7c554c77c34d389efa593",
+        "0x1b5108501b578ee59340ff1b06a63fffe1aad94bb914ce45f682e3cd53efeb30",
+        "0x908efe9eb27157c4f812d7aa0bbcc20b3cc95838f8d4a95637e2c9e736cc98b8",
+        "0x3981f852bb8c9f3f1e159731dd00775470989dc9dd6ec45c1ce25df16ccea7a1",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q26",
+      "question": "What is the standard deviation a measure of? (Q26)",
+      "options": [
+        "Central tendency",
+        "Sample size",
+        "Dispersion",
+        "Probability"
+      ],
+      "correctAnswer": "Dispersion",
+      "answerIndex": 2,
+      "proof": [
+        "0x9b6f72aa6277a466e8586f845bd3fb7057abe4704334def8894da488efb949b1",
+        "0x1b5108501b578ee59340ff1b06a63fffe1aad94bb914ce45f682e3cd53efeb30",
+        "0x908efe9eb27157c4f812d7aa0bbcc20b3cc95838f8d4a95637e2c9e736cc98b8",
+        "0x3981f852bb8c9f3f1e159731dd00775470989dc9dd6ec45c1ce25df16ccea7a1",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q27",
+      "question": "What is the standard deviation a measure of? (Q27)",
+      "options": [
+        "Central tendency",
+        "Sample size",
+        "Probability",
+        "Dispersion"
+      ],
+      "correctAnswer": "Dispersion",
+      "answerIndex": 3,
+      "proof": [
+        "0x9dbdab412945b405e0b93922c61b09c2731a22fa11b29c35873a7aa9baa43f2c",
+        "0x4941107b6be66ad4e2f6f2017e67d4f6c6a574b4a9d929d040d4911fbb9aafd8",
+        "0x908efe9eb27157c4f812d7aa0bbcc20b3cc95838f8d4a95637e2c9e736cc98b8",
+        "0x3981f852bb8c9f3f1e159731dd00775470989dc9dd6ec45c1ce25df16ccea7a1",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q28",
+      "question": "What is the standard deviation a measure of? (Q28)",
+      "options": [
+        "Dispersion",
+        "Sample size",
+        "Central tendency",
+        "Probability"
+      ],
+      "correctAnswer": "Dispersion",
+      "answerIndex": 0,
+      "proof": [
+        "0x4fedc7d593b91ddccc76d6f7a88b7a4c84e219255033b6de33b049f4328a732c",
+        "0x4941107b6be66ad4e2f6f2017e67d4f6c6a574b4a9d929d040d4911fbb9aafd8",
+        "0x908efe9eb27157c4f812d7aa0bbcc20b3cc95838f8d4a95637e2c9e736cc98b8",
+        "0x3981f852bb8c9f3f1e159731dd00775470989dc9dd6ec45c1ce25df16ccea7a1",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q29",
+      "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q29)",
+      "options": [
+        "Buffer Overflow",
+        "Rowhammer",
+        "Meltdown",
+        "Spectre"
+      ],
+      "correctAnswer": "Rowhammer",
+      "answerIndex": 1,
+      "proof": [
+        "0x6ce4dc02b18221c60c1fa66dcd8442bd13de6d073f38ee58e1bfc21ff9c4eda4",
+        "0x3d1c9251ee6ffaa3f7871a1ae3011ac9d5514aa1cefc230ff021caadd205b838",
+        "0x5c505c078499649141288143c748062f12ed18713ac709816910a4b7381069eb",
+        "0x3981f852bb8c9f3f1e159731dd00775470989dc9dd6ec45c1ce25df16ccea7a1",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q30",
+      "question": "What mechanism allows Solana to achieve high throughput? (Q30)",
+      "options": [
+        "DAG Consensus",
+        "Proof of Authority",
+        "Proof of History",
+        "Proof of Stake"
+      ],
+      "correctAnswer": "Proof of History",
+      "answerIndex": 2,
+      "proof": [
+        "0x9a88926c7cb93559977beea8c758ed9971d9d18a2c84a3638f2160e5db810ddc",
+        "0x3d1c9251ee6ffaa3f7871a1ae3011ac9d5514aa1cefc230ff021caadd205b838",
+        "0x5c505c078499649141288143c748062f12ed18713ac709816910a4b7381069eb",
+        "0x3981f852bb8c9f3f1e159731dd00775470989dc9dd6ec45c1ce25df16ccea7a1",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q31",
+      "question": "Which team has won the most UEFA Champions League titles? (Q31)",
+      "options": [
+        "Barcelona",
+        "Real Madrid",
+        "Liverpool",
+        "AC Milan"
+      ],
+      "correctAnswer": "Real Madrid",
+      "answerIndex": 1,
+      "proof": [
+        "0x3f0e584a7a703408d9b1aff300310d91acc1c88955f5da38794a0fb15e57eb71",
+        "0x2ad3984bcf1ebba9575484ffbf7c6735568eff1161eb66a09072c1d33e7dbebb",
+        "0x5c505c078499649141288143c748062f12ed18713ac709816910a4b7381069eb",
+        "0x3981f852bb8c9f3f1e159731dd00775470989dc9dd6ec45c1ce25df16ccea7a1",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q32",
+      "question": "What mechanism allows Solana to achieve high throughput? (Q32)",
+      "options": [
+        "DAG Consensus",
+        "Proof of Stake",
+        "Proof of History",
+        "Proof of Authority"
+      ],
+      "correctAnswer": "Proof of History",
+      "answerIndex": 2,
+      "proof": [
+        "0xb6340b2a91802e4991ab26eaac70ce66501248d3523b91fc6d71056c265bce1e",
+        "0x2ad3984bcf1ebba9575484ffbf7c6735568eff1161eb66a09072c1d33e7dbebb",
+        "0x5c505c078499649141288143c748062f12ed18713ac709816910a4b7381069eb",
+        "0x3981f852bb8c9f3f1e159731dd00775470989dc9dd6ec45c1ce25df16ccea7a1",
+        "0xc69d06a98ea87b9835b680d09e9878eb0a28748cc417aad803bcb7ea9393b238",
+        "0x9d6c1da5b5f5b997426bf5cc200367796818d6b4aa405c6a103e02486f022ae6",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q33",
+      "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q33)",
+      "options": [
+        "Buffer Overflow",
+        "Rowhammer",
+        "Spectre",
+        "Meltdown"
+      ],
+      "correctAnswer": "Rowhammer",
+      "answerIndex": 1,
+      "proof": [
+        "0x0cc1331bae25db25597a664896170014accb9665781274f243a262dac05fc481",
+        "0xe5032d2eada4679d61d168772d4ea37e9c04e5840ae3238e4aab2cb78a669035",
+        "0xf8d0d757eec6b405bc194e1bb53aa324b8d8af3d955aa85c194827916b1fd0b3",
+        "0x24d814e90e9774f5beeb1a2bc619664f4adda64e3a23f86ddaca36e703917996",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q34",
+      "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q34)",
+      "options": [
+        "Spectre",
+        "Rowhammer",
+        "Meltdown",
+        "Buffer Overflow"
+      ],
+      "correctAnswer": "Rowhammer",
+      "answerIndex": 1,
+      "proof": [
+        "0xb317fcbd5ed9529a9792cf63f4bd092e1a8f73a8d45ed54835762bf2904ab202",
+        "0xe5032d2eada4679d61d168772d4ea37e9c04e5840ae3238e4aab2cb78a669035",
+        "0xf8d0d757eec6b405bc194e1bb53aa324b8d8af3d955aa85c194827916b1fd0b3",
+        "0x24d814e90e9774f5beeb1a2bc619664f4adda64e3a23f86ddaca36e703917996",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q35",
+      "question": "Which team has won the most UEFA Champions League titles? (Q35)",
+      "options": [
+        "Liverpool",
+        "Barcelona",
+        "AC Milan",
+        "Real Madrid"
+      ],
+      "correctAnswer": "Real Madrid",
+      "answerIndex": 3,
+      "proof": [
+        "0x5a0fffa0194deb075b433a16c6d9e2755cc8d8a569a9812771533b1dfd4bbd63",
+        "0x9757b0f769c6e073522edb70a19042bc48a5b0aad9c9db313c21e9ed8c1c4c38",
+        "0xf8d0d757eec6b405bc194e1bb53aa324b8d8af3d955aa85c194827916b1fd0b3",
+        "0x24d814e90e9774f5beeb1a2bc619664f4adda64e3a23f86ddaca36e703917996",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q36",
+      "question": "What is the purpose of a nonce in blockchain mining? (Q36)",
+      "options": [
+        "Generate unique hashes",
+        "Encrypt data",
+        "Random reward selection",
+        "Prevent DoS"
+      ],
+      "correctAnswer": "Generate unique hashes",
+      "answerIndex": 0,
+      "proof": [
+        "0x53c81232df79ed6fe8a355d44b4ce4acba371e3c48b8ffc5771f7a7774d84417",
+        "0x9757b0f769c6e073522edb70a19042bc48a5b0aad9c9db313c21e9ed8c1c4c38",
+        "0xf8d0d757eec6b405bc194e1bb53aa324b8d8af3d955aa85c194827916b1fd0b3",
+        "0x24d814e90e9774f5beeb1a2bc619664f4adda64e3a23f86ddaca36e703917996",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q37",
+      "question": "Which cryptographic primitive enables Ethereum's zk-Rollups to validate transactions without revealing inputs? (Q37)",
+      "options": [
+        "Digital Signatures",
+        "SHA-256",
+        "Zero-Knowledge Proofs",
+        "BLS Signatures"
+      ],
+      "correctAnswer": "Zero-Knowledge Proofs",
+      "answerIndex": 2,
+      "proof": [
+        "0x0636728dae0877c15534eeea2caaad9697d9d87d6a60d7e80696eaba4dbc9763",
+        "0x2957d58b750a050ce559ba4badb32bc275d963c5cdd7a21c5fd05d69dcbfaf8b",
+        "0xad77379b5d169d0df0460a6a839e2105d3436ff36690b7a1a2ba0469571ec931",
+        "0x24d814e90e9774f5beeb1a2bc619664f4adda64e3a23f86ddaca36e703917996",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q38",
+      "question": "Which civilization built the earliest known system of writing called cuneiform? (Q38)",
+      "options": [
+        "Egyptians",
+        "Assyrians",
+        "Sumerians",
+        "Babylonians"
+      ],
+      "correctAnswer": "Sumerians",
+      "answerIndex": 2,
+      "proof": [
+        "0x62890d05fe9bdd40e2b46717f44a7ef7fd53c0ab927986dabd1e9b0fbd231f05",
+        "0x2957d58b750a050ce559ba4badb32bc275d963c5cdd7a21c5fd05d69dcbfaf8b",
+        "0xad77379b5d169d0df0460a6a839e2105d3436ff36690b7a1a2ba0469571ec931",
+        "0x24d814e90e9774f5beeb1a2bc619664f4adda64e3a23f86ddaca36e703917996",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q39",
+      "question": "What is the standard deviation a measure of? (Q39)",
+      "options": [
+        "Sample size",
+        "Central tendency",
+        "Probability",
+        "Dispersion"
+      ],
+      "correctAnswer": "Dispersion",
+      "answerIndex": 3,
+      "proof": [
+        "0x6f59d4c4f325a6427d88b9dc96bef523905c38fbd3a7316794bf05f60ccd6b8d",
+        "0x5330f472f1cda5e95faf7a16a4b4aba4b7873e353b7de55b389dfa3c14bab5d0",
+        "0xad77379b5d169d0df0460a6a839e2105d3436ff36690b7a1a2ba0469571ec931",
+        "0x24d814e90e9774f5beeb1a2bc619664f4adda64e3a23f86ddaca36e703917996",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q40",
+      "question": "Which country won the first-ever FIFA World Cup? (Q40)",
+      "options": [
+        "Germany",
+        "Brazil",
+        "Italy",
+        "Uruguay"
+      ],
+      "correctAnswer": "Uruguay",
+      "answerIndex": 3,
+      "proof": [
+        "0xb58aa98c12f5ca952d62ef16251e1600ab1ec53b1c85420e53a8ccc3cdf8c2da",
+        "0x5330f472f1cda5e95faf7a16a4b4aba4b7873e353b7de55b389dfa3c14bab5d0",
+        "0xad77379b5d169d0df0460a6a839e2105d3436ff36690b7a1a2ba0469571ec931",
+        "0x24d814e90e9774f5beeb1a2bc619664f4adda64e3a23f86ddaca36e703917996",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q41",
+      "question": "What mechanism allows Solana to achieve high throughput? (Q41)",
+      "options": [
+        "Proof of Stake",
+        "Proof of History",
+        "Proof of Authority",
+        "DAG Consensus"
+      ],
+      "correctAnswer": "Proof of History",
+      "answerIndex": 1,
+      "proof": [
+        "0x3257b6c2f82c657be3ea32ea8f71f8d30e092620e351c7c97a657834064cc659",
+        "0x45cea1bd27616d7b0e14100b1b2bb0ef5860567efb0d63fb1d6b90448571ecd4",
+        "0x931e5cb54bd3279e704d6509ff90b03d9b41099d552f21df924bff9c00fc137e",
+        "0xe71bfa6979e28a95cf431ff047d1a44da7006adc111bc8f03e30f8dfd085aff0",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q42",
+      "question": "What protocol does Ethereum use for peer-to-peer communication? (Q42)",
+      "options": [
+        "gRPC",
+        "TCP",
+        "LibP2P",
+        "UDP"
+      ],
+      "correctAnswer": "LibP2P",
+      "answerIndex": 2,
+      "proof": [
+        "0xc024be736454a4e58fcfa29df6349b7e44cbe08fc0376d0bc92760281c879c7c",
+        "0x45cea1bd27616d7b0e14100b1b2bb0ef5860567efb0d63fb1d6b90448571ecd4",
+        "0x931e5cb54bd3279e704d6509ff90b03d9b41099d552f21df924bff9c00fc137e",
+        "0xe71bfa6979e28a95cf431ff047d1a44da7006adc111bc8f03e30f8dfd085aff0",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q43",
+      "question": "What is the purpose of a nonce in blockchain mining? (Q43)",
+      "options": [
+        "Generate unique hashes",
+        "Encrypt data",
+        "Prevent DoS",
+        "Random reward selection"
+      ],
+      "correctAnswer": "Generate unique hashes",
+      "answerIndex": 0,
+      "proof": [
+        "0x3ff3e2b83dd33053e986325b4be0e7d2ca532941f2e3b8af16cd880212f727ef",
+        "0x09cf7e746ca5b163a807320c6d4238b8670fff64be55de55c61ba4da639c0ec5",
+        "0x931e5cb54bd3279e704d6509ff90b03d9b41099d552f21df924bff9c00fc137e",
+        "0xe71bfa6979e28a95cf431ff047d1a44da7006adc111bc8f03e30f8dfd085aff0",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q44",
+      "question": "Which team has won the most UEFA Champions League titles? (Q44)",
+      "options": [
+        "AC Milan",
+        "Barcelona",
+        "Liverpool",
+        "Real Madrid"
+      ],
+      "correctAnswer": "Real Madrid",
+      "answerIndex": 3,
+      "proof": [
+        "0xa24de1787b81ed2bc5a236149eb9a1a9bc5e46d7ddad751b7f15efc800b8c1cd",
+        "0x09cf7e746ca5b163a807320c6d4238b8670fff64be55de55c61ba4da639c0ec5",
+        "0x931e5cb54bd3279e704d6509ff90b03d9b41099d552f21df924bff9c00fc137e",
+        "0xe71bfa6979e28a95cf431ff047d1a44da7006adc111bc8f03e30f8dfd085aff0",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q45",
+      "question": "What is the purpose of a nonce in blockchain mining? (Q45)",
+      "options": [
+        "Encrypt data",
+        "Prevent DoS",
+        "Random reward selection",
+        "Generate unique hashes"
+      ],
+      "correctAnswer": "Generate unique hashes",
+      "answerIndex": 3,
+      "proof": [
+        "0x1fce1a64004db25ec3136944f697077e3eabcf5596566c409edc8b112f9ff4df",
+        "0x2d7259685689a908aaa3336486781a549a92dfc854e05c3750a0f4b7ffe3ca08",
+        "0xd4e3816be60914ec98a2ca5613aed05bb2ae25d2bb45b3243d8917517aa0f9b4",
+        "0xe71bfa6979e28a95cf431ff047d1a44da7006adc111bc8f03e30f8dfd085aff0",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q46",
+      "question": "Who was the youngest Formula 1 World Champion in history? (Q46)",
+      "options": [
+        "Max Verstappen",
+        "Sebastian Vettel",
+        "Fernando Alonso",
+        "Lewis Hamilton"
+      ],
+      "correctAnswer": "Sebastian Vettel",
+      "answerIndex": 1,
+      "proof": [
+        "0x2359eca7d571f8ae214bc9b21befe3bb3529f484132c467feb7caa32581a542e",
+        "0x2d7259685689a908aaa3336486781a549a92dfc854e05c3750a0f4b7ffe3ca08",
+        "0xd4e3816be60914ec98a2ca5613aed05bb2ae25d2bb45b3243d8917517aa0f9b4",
+        "0xe71bfa6979e28a95cf431ff047d1a44da7006adc111bc8f03e30f8dfd085aff0",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q47",
+      "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q47)",
+      "options": [
+        "Rowhammer",
+        "Meltdown",
+        "Spectre",
+        "Buffer Overflow"
+      ],
+      "correctAnswer": "Rowhammer",
+      "answerIndex": 0,
+      "proof": [
+        "0x2d68a43f2f79e47876178a1ca3e32dddfc90aa4f6362739ca38c092282bab646",
+        "0xc71acd68313a7ff7be4c7a948bbfe46dc9dc346a5c19de1ec4563574167dc5f5",
+        "0xd4e3816be60914ec98a2ca5613aed05bb2ae25d2bb45b3243d8917517aa0f9b4",
+        "0xe71bfa6979e28a95cf431ff047d1a44da7006adc111bc8f03e30f8dfd085aff0",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q48",
+      "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q48)",
+      "options": [
+        "Buffer Overflow",
+        "Rowhammer",
+        "Spectre",
+        "Meltdown"
+      ],
+      "correctAnswer": "Rowhammer",
+      "answerIndex": 1,
+      "proof": [
+        "0xa4fa816c0b57edb672179680a6779a0e99912f311fa351c8662ec551f6fec96e",
+        "0xc71acd68313a7ff7be4c7a948bbfe46dc9dc346a5c19de1ec4563574167dc5f5",
+        "0xd4e3816be60914ec98a2ca5613aed05bb2ae25d2bb45b3243d8917517aa0f9b4",
+        "0xe71bfa6979e28a95cf431ff047d1a44da7006adc111bc8f03e30f8dfd085aff0",
+        "0x818e5d727f59214e15477a1507cb9d7ad4f0ce212c9b4f489b3988dff383171c",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q49",
+      "question": "What is the standard deviation a measure of? (Q49)",
+      "options": [
+        "Dispersion",
+        "Central tendency",
+        "Sample size",
+        "Probability"
+      ],
+      "correctAnswer": "Dispersion",
+      "answerIndex": 0,
+      "proof": [
+        "0x998107a30dd20184a7848abdd0c29ac3ca1cd857955cb5ebe27bf9157af3ee3e",
+        "0x9b039098b00fe5b6085dca67582f74e7c6bc913c9f599934c8cace79b9fb08de",
+        "0xfb345c65e531766e6ee3d2b6083f0c05cb6c6a12988485302f82870ebf857a64",
+        "0x1ce3477b3b9589caa4ce6f8f1103fd38db2d06e1c4fda8641ee718c6cb05a6dd",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Q50",
+      "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q50)",
+      "options": [
+        "Spectre",
+        "Rowhammer",
+        "Meltdown",
+        "Buffer Overflow"
+      ],
+      "correctAnswer": "Rowhammer",
+      "answerIndex": 1,
+      "proof": [
+        "0xcddd18e0f3d38697bd6e83da221331b61c4925afd34b9d76c0987f03f1c7a77b",
+        "0x9b039098b00fe5b6085dca67582f74e7c6bc913c9f599934c8cace79b9fb08de",
+        "0xfb345c65e531766e6ee3d2b6083f0c05cb6c6a12988485302f82870ebf857a64",
+        "0x1ce3477b3b9589caa4ce6f8f1103fd38db2d06e1c4fda8641ee718c6cb05a6dd",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q1",
+      "question": "What is the cryptographic function used in Bitcoin mining? (Set2-Q1)",
+      "options": [
+        "SHA-1",
+        "SHA-256",
+        "MD5",
+        "SHA-3"
+      ],
+      "correctAnswer": "SHA-256",
+      "answerIndex": 1,
+      "proof": [
+        "0x35d7af5c364d0f52257c1638ded90967139ea29c01d0006831a185e4df170a10",
+        "0x1662d69212b5dc6c474cc9b617ed3841e25a70bc093eea32045d47f83abad5ee",
+        "0xfb345c65e531766e6ee3d2b6083f0c05cb6c6a12988485302f82870ebf857a64",
+        "0x1ce3477b3b9589caa4ce6f8f1103fd38db2d06e1c4fda8641ee718c6cb05a6dd",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q2",
+      "question": "Which Indian cricketer was known as the 'Wall'? (Set2-Q2)",
+      "options": [
+        "Rahul Dravid",
+        "MS Dhoni",
+        "Kapil Dev",
+        "Sourav Ganguly"
+      ],
+      "correctAnswer": "Rahul Dravid",
+      "answerIndex": 0,
+      "proof": [
+        "0x05277ff80fdfe21e36ccf47407f046ec2d7c4de0cdbe6751e81645730dc4812f",
+        "0x1662d69212b5dc6c474cc9b617ed3841e25a70bc093eea32045d47f83abad5ee",
+        "0xfb345c65e531766e6ee3d2b6083f0c05cb6c6a12988485302f82870ebf857a64",
+        "0x1ce3477b3b9589caa4ce6f8f1103fd38db2d06e1c4fda8641ee718c6cb05a6dd",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q3",
+      "question": "Which consensus algorithm is used by Avalanche blockchain? (Set2-Q3)",
+      "options": [
+        "Avalanche Consensus",
+        "HotStuff",
+        "DAG",
+        "PoW"
+      ],
+      "correctAnswer": "Avalanche Consensus",
+      "answerIndex": 0,
+      "proof": [
+        "0xd2608b67e62f733bceb30e6fa611a16fc780d0b25e76ec20a49a36371713fa0b",
+        "0x282011db4958c89a7debb97420383293200568d39b2845ab449f2c8b1941e062",
+        "0x59e7b412400031620444a9dd73d124fb7a1b101e72657a1d9434b7ee8b149b3f",
+        "0x1ce3477b3b9589caa4ce6f8f1103fd38db2d06e1c4fda8641ee718c6cb05a6dd",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q4",
+      "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q4)",
+      "options": [
+        "Mutation",
+        "Stateful computation",
+        "Looping",
+        "Immutability"
+      ],
+      "correctAnswer": "Immutability",
+      "answerIndex": 3,
+      "proof": [
+        "0xc7775fe09707f98c1789e0b8a6ddff2efd004bf9b2ee03c76fbc2e2725425123",
+        "0x282011db4958c89a7debb97420383293200568d39b2845ab449f2c8b1941e062",
+        "0x59e7b412400031620444a9dd73d124fb7a1b101e72657a1d9434b7ee8b149b3f",
+        "0x1ce3477b3b9589caa4ce6f8f1103fd38db2d06e1c4fda8641ee718c6cb05a6dd",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q5",
+      "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q5)",
+      "options": [
+        "Keccak",
+        "BLAKE2b",
+        "Poseidon",
+        "SHA-256"
+      ],
+      "correctAnswer": "Poseidon",
+      "answerIndex": 2,
+      "proof": [
+        "0x8aa634c8088a1e432d41da3828b71f0296ec5c4d62dbe0ed58e6c5c7c5010844",
+        "0xc1c1f2e8979ac4e51a0b5edb74d3ee8896eb58b61ec61ec7ca799dcef80e3331",
+        "0x59e7b412400031620444a9dd73d124fb7a1b101e72657a1d9434b7ee8b149b3f",
+        "0x1ce3477b3b9589caa4ce6f8f1103fd38db2d06e1c4fda8641ee718c6cb05a6dd",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q6",
+      "question": "Which consensus algorithm is used by Avalanche blockchain? (Set2-Q6)",
+      "options": [
+        "PoW",
+        "HotStuff",
+        "DAG",
+        "Avalanche Consensus"
+      ],
+      "correctAnswer": "Avalanche Consensus",
+      "answerIndex": 3,
+      "proof": [
+        "0x19d5c257ab0002d2bc524f5b7ed3d330d46bbaa6ca628762481851e650afd852",
+        "0xc1c1f2e8979ac4e51a0b5edb74d3ee8896eb58b61ec61ec7ca799dcef80e3331",
+        "0x59e7b412400031620444a9dd73d124fb7a1b101e72657a1d9434b7ee8b149b3f",
+        "0x1ce3477b3b9589caa4ce6f8f1103fd38db2d06e1c4fda8641ee718c6cb05a6dd",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q7",
+      "question": "Who holds the record for the most goals in a calendar year in football? (Set2-Q7)",
+      "options": [
+        "Robert Lewandowski",
+        "Cristiano Ronaldo",
+        "Pele",
+        "Lionel Messi"
+      ],
+      "correctAnswer": "Lionel Messi",
+      "answerIndex": 3,
+      "proof": [
+        "0x37230ce9eecd4c1e9ef9b51c2321e2d42b372b514852da03253365b01b5da7bb",
+        "0xeb4c1c0a69639a1f3d8e6d4b816a04ca51a5ad6b3513e14dde2891325a8075d9",
+        "0x297c7cf0b4ef332ee50bd0f9f3c9cfc2dad0c25a69ceba692f02674225306bad",
+        "0x56df08cd0344d66d8f17ca1fe98a12e57804be64bdc05fb4cda679100d33394d",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q8",
+      "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q8)",
+      "options": [
+        "Keccak",
+        "BLAKE2b",
+        "Poseidon",
+        "SHA-256"
+      ],
+      "correctAnswer": "Poseidon",
+      "answerIndex": 2,
+      "proof": [
+        "0x3a4612ad22edde2d99e74f4373fc5dc42c0257f47c6f80d93e697744734cdacd",
+        "0xeb4c1c0a69639a1f3d8e6d4b816a04ca51a5ad6b3513e14dde2891325a8075d9",
+        "0x297c7cf0b4ef332ee50bd0f9f3c9cfc2dad0c25a69ceba692f02674225306bad",
+        "0x56df08cd0344d66d8f17ca1fe98a12e57804be64bdc05fb4cda679100d33394d",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q9",
+      "question": "What is Gödel’s incompleteness theorem about? (Set2-Q9)",
+      "options": [
+        "No paradoxes in logic",
+        "Some truths cannot be proven",
+        "Every equation has a solution",
+        "All logic is circular"
+      ],
+      "correctAnswer": "Some truths cannot be proven",
+      "answerIndex": 1,
+      "proof": [
+        "0x6f3d74674277855968caa0eead4ce62e5647971d0952cdb6417670e7a1e13c16",
+        "0xc283dd650904a847d42db3fa8c7a1767de67ae72d0b397ebd4d505727deb1c49",
+        "0x297c7cf0b4ef332ee50bd0f9f3c9cfc2dad0c25a69ceba692f02674225306bad",
+        "0x56df08cd0344d66d8f17ca1fe98a12e57804be64bdc05fb4cda679100d33394d",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q10",
+      "question": "Who is the only athlete to play in both a Super Bowl and a World Series? (Set2-Q10)",
+      "options": [
+        "Deion Sanders",
+        "Bo Jackson",
+        "Michael Jordan",
+        "Jim Thorpe"
+      ],
+      "correctAnswer": "Deion Sanders",
+      "answerIndex": 0,
+      "proof": [
+        "0xa7975719bd0dbc584a16d9d60e044660fadd1244dac0aab5a99b6c6159575c24",
+        "0xc283dd650904a847d42db3fa8c7a1767de67ae72d0b397ebd4d505727deb1c49",
+        "0x297c7cf0b4ef332ee50bd0f9f3c9cfc2dad0c25a69ceba692f02674225306bad",
+        "0x56df08cd0344d66d8f17ca1fe98a12e57804be64bdc05fb4cda679100d33394d",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q11",
+      "question": "Who holds the record for the most goals in a calendar year in football? (Set2-Q11)",
+      "options": [
+        "Robert Lewandowski",
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Pele"
+      ],
+      "correctAnswer": "Lionel Messi",
+      "answerIndex": 2,
+      "proof": [
+        "0x192e5ec210701233a825f8e6169650a0abc27465e30ffacb1ef5d65f720f109a",
+        "0x5de561c3e704fef18e979fbe5f30207250e7856ba685aaa16ba2729f1c1d9e33",
+        "0x767ed4db0d707db8c147b595586a533b3f6632983c4a6b6eacea3d9f400ba721",
+        "0x56df08cd0344d66d8f17ca1fe98a12e57804be64bdc05fb4cda679100d33394d",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q12",
+      "question": "What is the maximum number of validators Ethereum can support concurrently? (Set2-Q12)",
+      "options": [
+        "500,000",
+        "1,000,000",
+        "262,144",
+        "65,536"
+      ],
+      "correctAnswer": "262,144",
+      "answerIndex": 2,
+      "proof": [
+        "0xe44b9ebafb415b07799b6fc7c31819a8886904004a23ffc7fc5f853d59e5fcae",
+        "0x5de561c3e704fef18e979fbe5f30207250e7856ba685aaa16ba2729f1c1d9e33",
+        "0x767ed4db0d707db8c147b595586a533b3f6632983c4a6b6eacea3d9f400ba721",
+        "0x56df08cd0344d66d8f17ca1fe98a12e57804be64bdc05fb4cda679100d33394d",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q13",
+      "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q13)",
+      "options": [
+        "Immutability",
+        "Stateful computation",
+        "Mutation",
+        "Looping"
+      ],
+      "correctAnswer": "Immutability",
+      "answerIndex": 0,
+      "proof": [
+        "0x431f1c48edd00814309faa0a5b016bc9c89bee480d5440fcd886f3e6d562cbb1",
+        "0x14321e89c80263c76b180df2f15a9f3b7dc17fa33c26d38400a915de8b96db62",
+        "0x767ed4db0d707db8c147b595586a533b3f6632983c4a6b6eacea3d9f400ba721",
+        "0x56df08cd0344d66d8f17ca1fe98a12e57804be64bdc05fb4cda679100d33394d",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q14",
+      "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q14)",
+      "options": [
+        "Poseidon",
+        "SHA-256",
+        "Keccak",
+        "BLAKE2b"
+      ],
+      "correctAnswer": "Poseidon",
+      "answerIndex": 0,
+      "proof": [
+        "0x5f842c458586889a7d033543c140fe92ec94f7571bb02b7c9d0f2a804b8f3f74",
+        "0x14321e89c80263c76b180df2f15a9f3b7dc17fa33c26d38400a915de8b96db62",
+        "0x767ed4db0d707db8c147b595586a533b3f6632983c4a6b6eacea3d9f400ba721",
+        "0x56df08cd0344d66d8f17ca1fe98a12e57804be64bdc05fb4cda679100d33394d",
+        "0xf078cdc12e23d3ba44af11dedf46e6cf7ed85ddd8a1362e6b85d6114c05a5489",
+        "0xd4f2670a1b242b5bde6b623755ecce14e8b60f495dad62893b037cf308837334",
+        "0x899fbb664ee28b6a52ea04c59fa002360b0e02cef6543e650feb36366579cb74"
+      ]
+    },
+    {
+      "questionId": "Set2-Q15",
+      "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q15)",
+      "options": [
+        "SHA-256",
+        "Keccak",
+        "Poseidon",
+        "BLAKE2b"
+      ],
+      "correctAnswer": "Poseidon",
+      "answerIndex": 2,
+      "proof": [
+        "0x88080989b2441b78b72ff13cb9070c59b97591e49585d91d88604e97d18a4ffc",
+        "0xc76a4aa83d95a284d0a4eea07fd082c57cbdad85c6df0b972e3bc965c8f06911",
+        "0x69fc3adf5558565a25e785e7db4f5e7a5c9f22293d464f8d65faeb257959f214",
+        "0xd9ea99eb7b565765808166b5e35e632a07f396be146f36945869e735ef7bc051",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q16",
+      "question": "What was the first general-purpose electronic computer? (Set2-Q16)",
+      "options": [
+        "Colossus",
+        "ENIAC",
+        "UNIVAC",
+        "Z3"
+      ],
+      "correctAnswer": "ENIAC",
+      "answerIndex": 1,
+      "proof": [
+        "0xbb216827b972a8a0cfc342e15081b8102a0e336d679c9154ecd1139fae42320d",
+        "0xc76a4aa83d95a284d0a4eea07fd082c57cbdad85c6df0b972e3bc965c8f06911",
+        "0x69fc3adf5558565a25e785e7db4f5e7a5c9f22293d464f8d65faeb257959f214",
+        "0xd9ea99eb7b565765808166b5e35e632a07f396be146f36945869e735ef7bc051",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q17",
+      "question": "What is the cryptographic function used in Bitcoin mining? (Set2-Q17)",
+      "options": [
+        "SHA-256",
+        "SHA-3",
+        "MD5",
+        "SHA-1"
+      ],
+      "correctAnswer": "SHA-256",
+      "answerIndex": 0,
+      "proof": [
+        "0x6271bd76e735d1abe2f1ade7f6391469bdc1245081473e3d5410bc9f3a073507",
+        "0xde244c6d87c93eedbf3ca9a216ad138f89c8cab1c00e803c9b996aaec81a2b48",
+        "0x69fc3adf5558565a25e785e7db4f5e7a5c9f22293d464f8d65faeb257959f214",
+        "0xd9ea99eb7b565765808166b5e35e632a07f396be146f36945869e735ef7bc051",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q18",
+      "question": "Who is the only athlete to play in both a Super Bowl and a World Series? (Set2-Q18)",
+      "options": [
+        "Deion Sanders",
+        "Jim Thorpe",
+        "Bo Jackson",
+        "Michael Jordan"
+      ],
+      "correctAnswer": "Deion Sanders",
+      "answerIndex": 0,
+      "proof": [
+        "0xe3b6c0c33a98da4075f3e075b1b818e5d00eea205f13833cf7e9a3f08be4f120",
+        "0xde244c6d87c93eedbf3ca9a216ad138f89c8cab1c00e803c9b996aaec81a2b48",
+        "0x69fc3adf5558565a25e785e7db4f5e7a5c9f22293d464f8d65faeb257959f214",
+        "0xd9ea99eb7b565765808166b5e35e632a07f396be146f36945869e735ef7bc051",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q19",
+      "question": "Which Indian cricketer was known as the 'Wall'? (Set2-Q19)",
+      "options": [
+        "Rahul Dravid",
+        "MS Dhoni",
+        "Sourav Ganguly",
+        "Kapil Dev"
+      ],
+      "correctAnswer": "Rahul Dravid",
+      "answerIndex": 0,
+      "proof": [
+        "0x64a6962ce0de294701e60739a16f19f769d736df2db38a29761e1119744f7917",
+        "0x74e939c0790566f450899c63668fbdde7a572c57c6f10ab212eade5d2210cfe6",
+        "0xe56833e0f7a261758a94247872dc9130d40019d4e013bcc7554d512355cc1880",
+        "0xd9ea99eb7b565765808166b5e35e632a07f396be146f36945869e735ef7bc051",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q20",
+      "question": "What is the maximum number of validators Ethereum can support concurrently? (Set2-Q20)",
+      "options": [
+        "500,000",
+        "1,000,000",
+        "65,536",
+        "262,144"
+      ],
+      "correctAnswer": "262,144",
+      "answerIndex": 3,
+      "proof": [
+        "0x768bda4a827a9ab9dd7f947b3c25df0c48cf78567a8deca3ec3f976eba43c70f",
+        "0x74e939c0790566f450899c63668fbdde7a572c57c6f10ab212eade5d2210cfe6",
+        "0xe56833e0f7a261758a94247872dc9130d40019d4e013bcc7554d512355cc1880",
+        "0xd9ea99eb7b565765808166b5e35e632a07f396be146f36945869e735ef7bc051",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q21",
+      "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q21)",
+      "options": [
+        "Poseidon",
+        "BLAKE2b",
+        "Keccak",
+        "SHA-256"
+      ],
+      "correctAnswer": "Poseidon",
+      "answerIndex": 0,
+      "proof": [
+        "0x3fff2a6f5ff7850ce899284d3352d1814374b13345703b7dd14c2111ea33eba1",
+        "0x7fdb35acbb5e54676e4ace369ad0747d922729d1b692138f9cf595fd4a960a40",
+        "0xe56833e0f7a261758a94247872dc9130d40019d4e013bcc7554d512355cc1880",
+        "0xd9ea99eb7b565765808166b5e35e632a07f396be146f36945869e735ef7bc051",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q22",
+      "question": "What was the first general-purpose electronic computer? (Set2-Q22)",
+      "options": [
+        "Z3",
+        "UNIVAC",
+        "ENIAC",
+        "Colossus"
+      ],
+      "correctAnswer": "ENIAC",
+      "answerIndex": 2,
+      "proof": [
+        "0x174dd53b6bf3277eeae1a1a88bca948db874af69d0894cc390b0ba6472aa5126",
+        "0x7fdb35acbb5e54676e4ace369ad0747d922729d1b692138f9cf595fd4a960a40",
+        "0xe56833e0f7a261758a94247872dc9130d40019d4e013bcc7554d512355cc1880",
+        "0xd9ea99eb7b565765808166b5e35e632a07f396be146f36945869e735ef7bc051",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q23",
+      "question": "Which Indian cricketer was known as the 'Wall'? (Set2-Q23)",
+      "options": [
+        "Kapil Dev",
+        "MS Dhoni",
+        "Rahul Dravid",
+        "Sourav Ganguly"
+      ],
+      "correctAnswer": "Rahul Dravid",
+      "answerIndex": 2,
+      "proof": [
+        "0x3b0c973ad85318a789660c96b61b81c48f7641e5bda37fa1b9ebde3b83839d77",
+        "0x08b5e13a28d191de021b0e077fa5a0dda472ba29ccb1f37099f41182327c91f4",
+        "0xe78e2b2245b47189c7a6c6f00008f61b6346fdb32b4a2472e8025bcbb5dd7aab",
+        "0x12af2949d6111dcc1f7f1ce835e6250bb4b26b9b6ada63d38fa6953e5fdcc7a1",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q24",
+      "question": "Which consensus algorithm is used by Avalanche blockchain? (Set2-Q24)",
+      "options": [
+        "HotStuff",
+        "Avalanche Consensus",
+        "PoW",
+        "DAG"
+      ],
+      "correctAnswer": "Avalanche Consensus",
+      "answerIndex": 1,
+      "proof": [
+        "0x09fe5363fc5bd04b9ed44e069046f7ff733349c435674cbb3f89359b6b1e107f",
+        "0x08b5e13a28d191de021b0e077fa5a0dda472ba29ccb1f37099f41182327c91f4",
+        "0xe78e2b2245b47189c7a6c6f00008f61b6346fdb32b4a2472e8025bcbb5dd7aab",
+        "0x12af2949d6111dcc1f7f1ce835e6250bb4b26b9b6ada63d38fa6953e5fdcc7a1",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q25",
+      "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q25)",
+      "options": [
+        "Keccak",
+        "BLAKE2b",
+        "Poseidon",
+        "SHA-256"
+      ],
+      "correctAnswer": "Poseidon",
+      "answerIndex": 2,
+      "proof": [
+        "0xe27afd8065c00a3d2cba076ade2f01f810041b09e222c088f15e524e9e0e799b",
+        "0x942ad19aecc43aead793c45a6fcbf4405ae36117bcb52849dda08c96bbdce94e",
+        "0xe78e2b2245b47189c7a6c6f00008f61b6346fdb32b4a2472e8025bcbb5dd7aab",
+        "0x12af2949d6111dcc1f7f1ce835e6250bb4b26b9b6ada63d38fa6953e5fdcc7a1",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q26",
+      "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q26)",
+      "options": [
+        "Looping",
+        "Stateful computation",
+        "Immutability",
+        "Mutation"
+      ],
+      "correctAnswer": "Immutability",
+      "answerIndex": 2,
+      "proof": [
+        "0x627f386efe71b3f5f407de4f622a697fb90327637ac07a16f3c792de9d791e60",
+        "0x942ad19aecc43aead793c45a6fcbf4405ae36117bcb52849dda08c96bbdce94e",
+        "0xe78e2b2245b47189c7a6c6f00008f61b6346fdb32b4a2472e8025bcbb5dd7aab",
+        "0x12af2949d6111dcc1f7f1ce835e6250bb4b26b9b6ada63d38fa6953e5fdcc7a1",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q27",
+      "question": "What is Gödel’s incompleteness theorem about? (Set2-Q27)",
+      "options": [
+        "Every equation has a solution",
+        "Some truths cannot be proven",
+        "All logic is circular",
+        "No paradoxes in logic"
+      ],
+      "correctAnswer": "Some truths cannot be proven",
+      "answerIndex": 1,
+      "proof": [
+        "0xd4c7d16f69dc57df6f92460ad7bc99e9dbe34857365e20957212e934015ac8e1",
+        "0xc1121a4305eedd336d53fc81ad474ba2fc0df503cc9568b753ceae674c2ee34f",
+        "0x1c6789153652192b59a3d2a5eb4a101d3e66832832e7c63cdc6f9a797ca054c2",
+        "0x12af2949d6111dcc1f7f1ce835e6250bb4b26b9b6ada63d38fa6953e5fdcc7a1",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q28",
+      "question": "What is the cryptographic function used in Bitcoin mining? (Set2-Q28)",
+      "options": [
+        "SHA-1",
+        "MD5",
+        "SHA-256",
+        "SHA-3"
+      ],
+      "correctAnswer": "SHA-256",
+      "answerIndex": 2,
+      "proof": [
+        "0x67d10f5ddc48abd529931c7d22ddb78bf0df84d55138495ad2bd669a7ef44e40",
+        "0xc1121a4305eedd336d53fc81ad474ba2fc0df503cc9568b753ceae674c2ee34f",
+        "0x1c6789153652192b59a3d2a5eb4a101d3e66832832e7c63cdc6f9a797ca054c2",
+        "0x12af2949d6111dcc1f7f1ce835e6250bb4b26b9b6ada63d38fa6953e5fdcc7a1",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q29",
+      "question": "What was the first general-purpose electronic computer? (Set2-Q29)",
+      "options": [
+        "Colossus",
+        "ENIAC",
+        "Z3",
+        "UNIVAC"
+      ],
+      "correctAnswer": "ENIAC",
+      "answerIndex": 1,
+      "proof": [
+        "0xab6044c2ee68b2b76cd1949250ad0a934ceb6408c59591d3f8ea6617d2bd601b",
+        "0x58640129aeab84182556423cf4ee63d1e1bfd80e29a49acb60055afb162d8672",
+        "0x1c6789153652192b59a3d2a5eb4a101d3e66832832e7c63cdc6f9a797ca054c2",
+        "0x12af2949d6111dcc1f7f1ce835e6250bb4b26b9b6ada63d38fa6953e5fdcc7a1",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q30",
+      "question": "Which Indian cricketer was known as the 'Wall'? (Set2-Q30)",
+      "options": [
+        "Kapil Dev",
+        "Rahul Dravid",
+        "MS Dhoni",
+        "Sourav Ganguly"
+      ],
+      "correctAnswer": "Rahul Dravid",
+      "answerIndex": 1,
+      "proof": [
+        "0x43ae89473dd79fc1c50c60e658bfea05f0da33ac397e674e1b385c8278c5bf51",
+        "0x58640129aeab84182556423cf4ee63d1e1bfd80e29a49acb60055afb162d8672",
+        "0x1c6789153652192b59a3d2a5eb4a101d3e66832832e7c63cdc6f9a797ca054c2",
+        "0x12af2949d6111dcc1f7f1ce835e6250bb4b26b9b6ada63d38fa6953e5fdcc7a1",
+        "0x973cb9beb919f433dcefbcddd3e628a4402ee947b4abece934a6c4c19d14593b",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q31",
+      "question": "Which consensus algorithm is used by Avalanche blockchain? (Set2-Q31)",
+      "options": [
+        "DAG",
+        "Avalanche Consensus",
+        "PoW",
+        "HotStuff"
+      ],
+      "correctAnswer": "Avalanche Consensus",
+      "answerIndex": 1,
+      "proof": [
+        "0x63616df48e9feb32ac55af44237ca74b1ffbfed89f85efd366e560eb8b90d50f",
+        "0xc20745a156934f1ff18425fc82d36f52b592c9376764340d519d2078727dcd8e",
+        "0x201384ecf91b3c7ff4d2f225c4a1447ee6ecc08056b84c83aa5b32d8d509e3d9",
+        "0x24c867fe8461be9fb1a85894634aac64493841af034a21bf7ac2bdafc13d7b08",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q32",
+      "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q32)",
+      "options": [
+        "Keccak",
+        "SHA-256",
+        "BLAKE2b",
+        "Poseidon"
+      ],
+      "correctAnswer": "Poseidon",
+      "answerIndex": 3,
+      "proof": [
+        "0xd8053df81b79e4a910141295f233c146fcc8fc48f67b8f5e86260221353d4e06",
+        "0xc20745a156934f1ff18425fc82d36f52b592c9376764340d519d2078727dcd8e",
+        "0x201384ecf91b3c7ff4d2f225c4a1447ee6ecc08056b84c83aa5b32d8d509e3d9",
+        "0x24c867fe8461be9fb1a85894634aac64493841af034a21bf7ac2bdafc13d7b08",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q33",
+      "question": "Who is the only athlete to play in both a Super Bowl and a World Series? (Set2-Q33)",
+      "options": [
+        "Deion Sanders",
+        "Michael Jordan",
+        "Jim Thorpe",
+        "Bo Jackson"
+      ],
+      "correctAnswer": "Deion Sanders",
+      "answerIndex": 0,
+      "proof": [
+        "0x4bff88294d9d4a1c77b739b315b44eba161d5224bad7c26fb0da02551b9956e5",
+        "0x894fbcb5af85c4a97f093e2da543d5fa29e1b2e141547f4a3616ff6045b4cdb9",
+        "0x201384ecf91b3c7ff4d2f225c4a1447ee6ecc08056b84c83aa5b32d8d509e3d9",
+        "0x24c867fe8461be9fb1a85894634aac64493841af034a21bf7ac2bdafc13d7b08",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q34",
+      "question": "Who is the only athlete to play in both a Super Bowl and a World Series? (Set2-Q34)",
+      "options": [
+        "Deion Sanders",
+        "Michael Jordan",
+        "Jim Thorpe",
+        "Bo Jackson"
+      ],
+      "correctAnswer": "Deion Sanders",
+      "answerIndex": 0,
+      "proof": [
+        "0x36489cdc5f519f993aec4959f2c218f6e18e7ff0a399902610efbbf8323a4ba2",
+        "0x894fbcb5af85c4a97f093e2da543d5fa29e1b2e141547f4a3616ff6045b4cdb9",
+        "0x201384ecf91b3c7ff4d2f225c4a1447ee6ecc08056b84c83aa5b32d8d509e3d9",
+        "0x24c867fe8461be9fb1a85894634aac64493841af034a21bf7ac2bdafc13d7b08",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q35",
+      "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q35)",
+      "options": [
+        "Keccak",
+        "BLAKE2b",
+        "Poseidon",
+        "SHA-256"
+      ],
+      "correctAnswer": "Poseidon",
+      "answerIndex": 2,
+      "proof": [
+        "0x1cba534d95ec9256d3aeccc8fbf0b529824eba04461944b1484ba0d6efec31b0",
+        "0xd6d38999a8e3a06514fe54ee822a657d38cd57ca9a0d12c7c580e4ac3c5a1b82",
+        "0xcebadcef0e4314e25bf6e2024401a3a8f6029ef9e6536ed75a9a5a7c131d4e48",
+        "0x24c867fe8461be9fb1a85894634aac64493841af034a21bf7ac2bdafc13d7b08",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q36",
+      "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q36)",
+      "options": [
+        "Keccak",
+        "Poseidon",
+        "SHA-256",
+        "BLAKE2b"
+      ],
+      "correctAnswer": "Poseidon",
+      "answerIndex": 1,
+      "proof": [
+        "0xe2b81574bbe7a7aed0b7de5b5f725644766c6af0c575949f785a69a9b45d784d",
+        "0xd6d38999a8e3a06514fe54ee822a657d38cd57ca9a0d12c7c580e4ac3c5a1b82",
+        "0xcebadcef0e4314e25bf6e2024401a3a8f6029ef9e6536ed75a9a5a7c131d4e48",
+        "0x24c867fe8461be9fb1a85894634aac64493841af034a21bf7ac2bdafc13d7b08",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q37",
+      "question": "What was the first general-purpose electronic computer? (Set2-Q37)",
+      "options": [
+        "Colossus",
+        "UNIVAC",
+        "Z3",
+        "ENIAC"
+      ],
+      "correctAnswer": "ENIAC",
+      "answerIndex": 3,
+      "proof": [
+        "0x4743efaaa4fb19fe51ae8e478194014e1d6ce77f3de2bbdf78db6ef01d7221c6",
+        "0x9eb747011c3e882d858b04d7a1d3116798d50e78eaf13b477f946eccd3ba80e4",
+        "0xcebadcef0e4314e25bf6e2024401a3a8f6029ef9e6536ed75a9a5a7c131d4e48",
+        "0x24c867fe8461be9fb1a85894634aac64493841af034a21bf7ac2bdafc13d7b08",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q38",
+      "question": "What was the first general-purpose electronic computer? (Set2-Q38)",
+      "options": [
+        "ENIAC",
+        "Colossus",
+        "UNIVAC",
+        "Z3"
+      ],
+      "correctAnswer": "ENIAC",
+      "answerIndex": 0,
+      "proof": [
+        "0xe95a770aa69a7b820ee6c708ae8571895adf57cd69d24d3b6e93398f88951423",
+        "0x9eb747011c3e882d858b04d7a1d3116798d50e78eaf13b477f946eccd3ba80e4",
+        "0xcebadcef0e4314e25bf6e2024401a3a8f6029ef9e6536ed75a9a5a7c131d4e48",
+        "0x24c867fe8461be9fb1a85894634aac64493841af034a21bf7ac2bdafc13d7b08",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q39",
+      "question": "Which consensus algorithm is used by Avalanche blockchain? (Set2-Q39)",
+      "options": [
+        "PoW",
+        "HotStuff",
+        "Avalanche Consensus",
+        "DAG"
+      ],
+      "correctAnswer": "Avalanche Consensus",
+      "answerIndex": 2,
+      "proof": [
+        "0x07e9d1eec329b249b53bba3b5c43ab2014012a046f5e9cac68cf30969464aee2",
+        "0x163e1727c0012421b290cdb36a6a4f738bac776dbc6fdf4857c4f6b008c283ff",
+        "0xb23aebebc58dce609cb7d9d0829fdb84d8556817aff030667a7ad93bb0a0692a",
+        "0x6782578a3cb9fe2cfef4f45d847850f61fd35c93c71091f0b0c2a07f6c25dbf2",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q40",
+      "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q40)",
+      "options": [
+        "Immutability",
+        "Mutation",
+        "Looping",
+        "Stateful computation"
+      ],
+      "correctAnswer": "Immutability",
+      "answerIndex": 0,
+      "proof": [
+        "0x7952aa7f41ea772abbb0745387039d95d30ee4a9b4a8254cfb5d9c35a2ca0f64",
+        "0x163e1727c0012421b290cdb36a6a4f738bac776dbc6fdf4857c4f6b008c283ff",
+        "0xb23aebebc58dce609cb7d9d0829fdb84d8556817aff030667a7ad93bb0a0692a",
+        "0x6782578a3cb9fe2cfef4f45d847850f61fd35c93c71091f0b0c2a07f6c25dbf2",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q41",
+      "question": "Which Indian cricketer was known as the 'Wall'? (Set2-Q41)",
+      "options": [
+        "Sourav Ganguly",
+        "Rahul Dravid",
+        "Kapil Dev",
+        "MS Dhoni"
+      ],
+      "correctAnswer": "Rahul Dravid",
+      "answerIndex": 1,
+      "proof": [
+        "0xdf1af72643744ee657b08c30f0644149347be16102b29fb0df428cec3a879a97",
+        "0xed9837b83dbae84157a05831a409a479dd7ac349d2cd48e129e802bb79e38d04",
+        "0xb23aebebc58dce609cb7d9d0829fdb84d8556817aff030667a7ad93bb0a0692a",
+        "0x6782578a3cb9fe2cfef4f45d847850f61fd35c93c71091f0b0c2a07f6c25dbf2",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q42",
+      "question": "Who holds the record for the most goals in a calendar year in football? (Set2-Q42)",
+      "options": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Robert Lewandowski",
+        "Pele"
+      ],
+      "correctAnswer": "Lionel Messi",
+      "answerIndex": 0,
+      "proof": [
+        "0x1e1a5c33726f8eb8b21ddefd6bbf99f286f3297652050be3321b8ffc31a7f62d",
+        "0xed9837b83dbae84157a05831a409a479dd7ac349d2cd48e129e802bb79e38d04",
+        "0xb23aebebc58dce609cb7d9d0829fdb84d8556817aff030667a7ad93bb0a0692a",
+        "0x6782578a3cb9fe2cfef4f45d847850f61fd35c93c71091f0b0c2a07f6c25dbf2",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q43",
+      "question": "Who is the only athlete to play in both a Super Bowl and a World Series? (Set2-Q43)",
+      "options": [
+        "Deion Sanders",
+        "Jim Thorpe",
+        "Bo Jackson",
+        "Michael Jordan"
+      ],
+      "correctAnswer": "Deion Sanders",
+      "answerIndex": 0,
+      "proof": [
+        "0x8834df534ff7155b057f4ba2a767488bc8e0b19f5d806ac122fd56719c2a713f",
+        "0x94c2f44b19652055e2b2c1d7246e630a7bebfde45fb050f67f941aef54870dbf",
+        "0x6c63d929e880da99f2a28285690536d16496e7bedb2749c5496defb7020b24c6",
+        "0x6782578a3cb9fe2cfef4f45d847850f61fd35c93c71091f0b0c2a07f6c25dbf2",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q44",
+      "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q44)",
+      "options": [
+        "Immutability",
+        "Mutation",
+        "Looping",
+        "Stateful computation"
+      ],
+      "correctAnswer": "Immutability",
+      "answerIndex": 0,
+      "proof": [
+        "0x718574e0d7e4a6a7b5f636acd1b35c553b93a961bb872fc6ae25a7a32ede9843",
+        "0x94c2f44b19652055e2b2c1d7246e630a7bebfde45fb050f67f941aef54870dbf",
+        "0x6c63d929e880da99f2a28285690536d16496e7bedb2749c5496defb7020b24c6",
+        "0x6782578a3cb9fe2cfef4f45d847850f61fd35c93c71091f0b0c2a07f6c25dbf2",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q45",
+      "question": "What is Gödel’s incompleteness theorem about? (Set2-Q45)",
+      "options": [
+        "Some truths cannot be proven",
+        "Every equation has a solution",
+        "No paradoxes in logic",
+        "All logic is circular"
+      ],
+      "correctAnswer": "Some truths cannot be proven",
+      "answerIndex": 0,
+      "proof": [
+        "0x8e613a7559109c018e5a9fc66882a1b7c16a3c4e8b828f900bbe651d8b838548",
+        "0x24ce8349f03bd33736eec79ed8e3ff5a728a08ca19c28c633cc3620aedbe0e75",
+        "0x6c63d929e880da99f2a28285690536d16496e7bedb2749c5496defb7020b24c6",
+        "0x6782578a3cb9fe2cfef4f45d847850f61fd35c93c71091f0b0c2a07f6c25dbf2",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q46",
+      "question": "What is Gödel’s incompleteness theorem about? (Set2-Q46)",
+      "options": [
+        "All logic is circular",
+        "No paradoxes in logic",
+        "Some truths cannot be proven",
+        "Every equation has a solution"
+      ],
+      "correctAnswer": "Some truths cannot be proven",
+      "answerIndex": 2,
+      "proof": [
+        "0xe9f8810b8bda6d8a981211a514dd92e559cd5b7d87380676816d9756d04451a7",
+        "0x24ce8349f03bd33736eec79ed8e3ff5a728a08ca19c28c633cc3620aedbe0e75",
+        "0x6c63d929e880da99f2a28285690536d16496e7bedb2749c5496defb7020b24c6",
+        "0x6782578a3cb9fe2cfef4f45d847850f61fd35c93c71091f0b0c2a07f6c25dbf2",
+        "0xbbfd9c46a544490955fd6b49cb50956a3bcaf88b2cdbe26c64f2fdb8bba0af40",
+        "0x5f5eee42b2e4c83190902e8e0a88ce0020d5a53c240b4e4cfcea39220d719d1d",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q47",
+      "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q47)",
+      "options": [
+        "Stateful computation",
+        "Looping",
+        "Mutation",
+        "Immutability"
+      ],
+      "correctAnswer": "Immutability",
+      "answerIndex": 3,
+      "proof": [
+        "0x901635fbbad3248265184931088ee888f292aa46a96bb359f2eced5ee51eb359",
+        "0xd0882e378999ee20bffd70dd414c39f74c12274d4aefaf0a9262db1caa02d2ed",
+        "0x18ddf18fc1162f6bf9eacd012263faf8675864b8b0ed555348241b98c2b0ea45",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q48",
+      "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q48)",
+      "options": [
+        "Immutability",
+        "Mutation",
+        "Stateful computation",
+        "Looping"
+      ],
+      "correctAnswer": "Immutability",
+      "answerIndex": 0,
+      "proof": [
+        "0xb0827355e19467c8ece0cc44ed57bf167820ff36838cb69283276a754384a780",
+        "0xd0882e378999ee20bffd70dd414c39f74c12274d4aefaf0a9262db1caa02d2ed",
+        "0x18ddf18fc1162f6bf9eacd012263faf8675864b8b0ed555348241b98c2b0ea45",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q49",
+      "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q49)",
+      "options": [
+        "Looping",
+        "Mutation",
+        "Stateful computation",
+        "Immutability"
+      ],
+      "correctAnswer": "Immutability",
+      "answerIndex": 3,
+      "proof": [
+        "0x6dca8b28c8817a91b1a05d35ef3715902837fb7ce3d4fc4a7cce3cd7320f42ec",
+        "0x8505e61fea9b4d6f6aa8bb439b54a08e28a0e3f1aaa6ed87d21a274202083423",
+        "0x18ddf18fc1162f6bf9eacd012263faf8675864b8b0ed555348241b98c2b0ea45",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    },
+    {
+      "questionId": "Set2-Q50",
+      "question": "What is Gödel’s incompleteness theorem about? (Set2-Q50)",
+      "options": [
+        "Every equation has a solution",
+        "No paradoxes in logic",
+        "All logic is circular",
+        "Some truths cannot be proven"
+      ],
+      "correctAnswer": "Some truths cannot be proven",
+      "answerIndex": 3,
+      "proof": [
+        "0xf0d3041922c2eb43804c76f6c4b6721e9ab12cc927bba158a19721190138fbb5",
+        "0x8505e61fea9b4d6f6aa8bb439b54a08e28a0e3f1aaa6ed87d21a274202083423",
+        "0x18ddf18fc1162f6bf9eacd012263faf8675864b8b0ed555348241b98c2b0ea45",
+        "0x273120c95528a6f7971fd54b14cadedf23a0552be1f99a1d6672d744a9bcd612"
+      ]
+    }
+  ]
+}

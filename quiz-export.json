@@ -1,0 +1,1103 @@
+[
+    {
+        "question": "Which country won the first-ever FIFA World Cup? (Q1)",
+        "options": [
+            "Brazil",
+            "Germany",
+            "Italy",
+            "Uruguay"
+        ],
+        "answer": "Uruguay",
+        "topic": "Sports"
+    },
+    {
+        "question": "Which cryptographic primitive enables Ethereum's zk-Rollups to validate transactions without revealing inputs? (Q2)",
+        "options": [
+            "Digital Signatures",
+            "SHA-256",
+            "Zero-Knowledge Proofs",
+            "BLS Signatures"
+        ],
+        "answer": "Zero-Knowledge Proofs",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which team has won the most UEFA Champions League titles? (Q3)",
+        "options": [
+            "AC Milan",
+            "Real Madrid",
+            "Liverpool",
+            "Barcelona"
+        ],
+        "answer": "Real Madrid",
+        "topic": "Sports"
+    },
+    {
+        "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q4)",
+        "options": [
+            "Meltdown",
+            "Rowhammer",
+            "Spectre",
+            "Buffer Overflow"
+        ],
+        "answer": "Rowhammer",
+        "topic": "Tech"
+    },
+    {
+        "question": "What mechanism allows Solana to achieve high throughput? (Q5)",
+        "options": [
+            "Proof of Stake",
+            "DAG Consensus",
+            "Proof of History",
+            "Proof of Authority"
+        ],
+        "answer": "Proof of History",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What protocol does Ethereum use for peer-to-peer communication? (Q6)",
+        "options": [
+            "UDP",
+            "TCP",
+            "LibP2P",
+            "gRPC"
+        ],
+        "answer": "LibP2P",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which cryptographic primitive enables Ethereum's zk-Rollups to validate transactions without revealing inputs? (Q7)",
+        "options": [
+            "Zero-Knowledge Proofs",
+            "BLS Signatures",
+            "Digital Signatures",
+            "SHA-256"
+        ],
+        "answer": "Zero-Knowledge Proofs",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What is the purpose of a nonce in blockchain mining? (Q8)",
+        "options": [
+            "Generate unique hashes",
+            "Encrypt data",
+            "Random reward selection",
+            "Prevent DoS"
+        ],
+        "answer": "Generate unique hashes",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which civilization built the earliest known system of writing called cuneiform? (Q9)",
+        "options": [
+            "Babylonians",
+            "Sumerians",
+            "Assyrians",
+            "Egyptians"
+        ],
+        "answer": "Sumerians",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "Which country won the first-ever FIFA World Cup? (Q10)",
+        "options": [
+            "Brazil",
+            "Uruguay",
+            "Italy",
+            "Germany"
+        ],
+        "answer": "Uruguay",
+        "topic": "Sports"
+    },
+    {
+        "question": "Which civilization built the earliest known system of writing called cuneiform? (Q11)",
+        "options": [
+            "Egyptians",
+            "Assyrians",
+            "Babylonians",
+            "Sumerians"
+        ],
+        "answer": "Sumerians",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "Which country won the first-ever FIFA World Cup? (Q12)",
+        "options": [
+            "Uruguay",
+            "Brazil",
+            "Italy",
+            "Germany"
+        ],
+        "answer": "Uruguay",
+        "topic": "Sports"
+    },
+    {
+        "question": "Who was the youngest Formula 1 World Champion in history? (Q13)",
+        "options": [
+            "Lewis Hamilton",
+            "Fernando Alonso",
+            "Sebastian Vettel",
+            "Max Verstappen"
+        ],
+        "answer": "Sebastian Vettel",
+        "topic": "Sports"
+    },
+    {
+        "question": "Who was the youngest Formula 1 World Champion in history? (Q14)",
+        "options": [
+            "Fernando Alonso",
+            "Lewis Hamilton",
+            "Max Verstappen",
+            "Sebastian Vettel"
+        ],
+        "answer": "Sebastian Vettel",
+        "topic": "Sports"
+    },
+    {
+        "question": "Which country won the first-ever FIFA World Cup? (Q15)",
+        "options": [
+            "Uruguay",
+            "Germany",
+            "Italy",
+            "Brazil"
+        ],
+        "answer": "Uruguay",
+        "topic": "Sports"
+    },
+    {
+        "question": "Which cryptographic primitive enables Ethereum's zk-Rollups to validate transactions without revealing inputs? (Q16)",
+        "options": [
+            "Zero-Knowledge Proofs",
+            "SHA-256",
+            "BLS Signatures",
+            "Digital Signatures"
+        ],
+        "answer": "Zero-Knowledge Proofs",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q17)",
+        "options": [
+            "Meltdown",
+            "Buffer Overflow",
+            "Spectre",
+            "Rowhammer"
+        ],
+        "answer": "Rowhammer",
+        "topic": "Tech"
+    },
+    {
+        "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q18)",
+        "options": [
+            "Buffer Overflow",
+            "Meltdown",
+            "Spectre",
+            "Rowhammer"
+        ],
+        "answer": "Rowhammer",
+        "topic": "Tech"
+    },
+    {
+        "question": "What protocol does Ethereum use for peer-to-peer communication? (Q19)",
+        "options": [
+            "UDP",
+            "TCP",
+            "gRPC",
+            "LibP2P"
+        ],
+        "answer": "LibP2P",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What mechanism allows Solana to achieve high throughput? (Q20)",
+        "options": [
+            "Proof of Authority",
+            "Proof of Stake",
+            "DAG Consensus",
+            "Proof of History"
+        ],
+        "answer": "Proof of History",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What protocol does Ethereum use for peer-to-peer communication? (Q21)",
+        "options": [
+            "UDP",
+            "LibP2P",
+            "TCP",
+            "gRPC"
+        ],
+        "answer": "LibP2P",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which civilization built the earliest known system of writing called cuneiform? (Q22)",
+        "options": [
+            "Babylonians",
+            "Egyptians",
+            "Assyrians",
+            "Sumerians"
+        ],
+        "answer": "Sumerians",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q23)",
+        "options": [
+            "Rowhammer",
+            "Spectre",
+            "Buffer Overflow",
+            "Meltdown"
+        ],
+        "answer": "Rowhammer",
+        "topic": "Tech"
+    },
+    {
+        "question": "Which civilization built the earliest known system of writing called cuneiform? (Q24)",
+        "options": [
+            "Assyrians",
+            "Egyptians",
+            "Babylonians",
+            "Sumerians"
+        ],
+        "answer": "Sumerians",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "Which civilization built the earliest known system of writing called cuneiform? (Q25)",
+        "options": [
+            "Egyptians",
+            "Babylonians",
+            "Sumerians",
+            "Assyrians"
+        ],
+        "answer": "Sumerians",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "What is the standard deviation a measure of? (Q26)",
+        "options": [
+            "Central tendency",
+            "Sample size",
+            "Dispersion",
+            "Probability"
+        ],
+        "answer": "Dispersion",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "What is the standard deviation a measure of? (Q27)",
+        "options": [
+            "Central tendency",
+            "Sample size",
+            "Probability",
+            "Dispersion"
+        ],
+        "answer": "Dispersion",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "What is the standard deviation a measure of? (Q28)",
+        "options": [
+            "Dispersion",
+            "Sample size",
+            "Central tendency",
+            "Probability"
+        ],
+        "answer": "Dispersion",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q29)",
+        "options": [
+            "Buffer Overflow",
+            "Rowhammer",
+            "Meltdown",
+            "Spectre"
+        ],
+        "answer": "Rowhammer",
+        "topic": "Tech"
+    },
+    {
+        "question": "What mechanism allows Solana to achieve high throughput? (Q30)",
+        "options": [
+            "DAG Consensus",
+            "Proof of Authority",
+            "Proof of History",
+            "Proof of Stake"
+        ],
+        "answer": "Proof of History",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which team has won the most UEFA Champions League titles? (Q31)",
+        "options": [
+            "Barcelona",
+            "Real Madrid",
+            "Liverpool",
+            "AC Milan"
+        ],
+        "answer": "Real Madrid",
+        "topic": "Sports"
+    },
+    {
+        "question": "What mechanism allows Solana to achieve high throughput? (Q32)",
+        "options": [
+            "DAG Consensus",
+            "Proof of Stake",
+            "Proof of History",
+            "Proof of Authority"
+        ],
+        "answer": "Proof of History",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q33)",
+        "options": [
+            "Buffer Overflow",
+            "Rowhammer",
+            "Spectre",
+            "Meltdown"
+        ],
+        "answer": "Rowhammer",
+        "topic": "Tech"
+    },
+    {
+        "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q34)",
+        "options": [
+            "Spectre",
+            "Rowhammer",
+            "Meltdown",
+            "Buffer Overflow"
+        ],
+        "answer": "Rowhammer",
+        "topic": "Tech"
+    },
+    {
+        "question": "Which team has won the most UEFA Champions League titles? (Q35)",
+        "options": [
+            "Liverpool",
+            "Barcelona",
+            "AC Milan",
+            "Real Madrid"
+        ],
+        "answer": "Real Madrid",
+        "topic": "Sports"
+    },
+    {
+        "question": "What is the purpose of a nonce in blockchain mining? (Q36)",
+        "options": [
+            "Generate unique hashes",
+            "Encrypt data",
+            "Random reward selection",
+            "Prevent DoS"
+        ],
+        "answer": "Generate unique hashes",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which cryptographic primitive enables Ethereum's zk-Rollups to validate transactions without revealing inputs? (Q37)",
+        "options": [
+            "Digital Signatures",
+            "SHA-256",
+            "Zero-Knowledge Proofs",
+            "BLS Signatures"
+        ],
+        "answer": "Zero-Knowledge Proofs",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which civilization built the earliest known system of writing called cuneiform? (Q38)",
+        "options": [
+            "Egyptians",
+            "Assyrians",
+            "Sumerians",
+            "Babylonians"
+        ],
+        "answer": "Sumerians",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "What is the standard deviation a measure of? (Q39)",
+        "options": [
+            "Sample size",
+            "Central tendency",
+            "Probability",
+            "Dispersion"
+        ],
+        "answer": "Dispersion",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "Which country won the first-ever FIFA World Cup? (Q40)",
+        "options": [
+            "Germany",
+            "Brazil",
+            "Italy",
+            "Uruguay"
+        ],
+        "answer": "Uruguay",
+        "topic": "Sports"
+    },
+    {
+        "question": "What mechanism allows Solana to achieve high throughput? (Q41)",
+        "options": [
+            "Proof of Stake",
+            "Proof of History",
+            "Proof of Authority",
+            "DAG Consensus"
+        ],
+        "answer": "Proof of History",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What protocol does Ethereum use for peer-to-peer communication? (Q42)",
+        "options": [
+            "gRPC",
+            "TCP",
+            "LibP2P",
+            "UDP"
+        ],
+        "answer": "LibP2P",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What is the purpose of a nonce in blockchain mining? (Q43)",
+        "options": [
+            "Generate unique hashes",
+            "Encrypt data",
+            "Prevent DoS",
+            "Random reward selection"
+        ],
+        "answer": "Generate unique hashes",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which team has won the most UEFA Champions League titles? (Q44)",
+        "options": [
+            "AC Milan",
+            "Barcelona",
+            "Liverpool",
+            "Real Madrid"
+        ],
+        "answer": "Real Madrid",
+        "topic": "Sports"
+    },
+    {
+        "question": "What is the purpose of a nonce in blockchain mining? (Q45)",
+        "options": [
+            "Encrypt data",
+            "Prevent DoS",
+            "Random reward selection",
+            "Generate unique hashes"
+        ],
+        "answer": "Generate unique hashes",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Who was the youngest Formula 1 World Champion in history? (Q46)",
+        "options": [
+            "Max Verstappen",
+            "Sebastian Vettel",
+            "Fernando Alonso",
+            "Lewis Hamilton"
+        ],
+        "answer": "Sebastian Vettel",
+        "topic": "Sports"
+    },
+    {
+        "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q47)",
+        "options": [
+            "Rowhammer",
+            "Meltdown",
+            "Spectre",
+            "Buffer Overflow"
+        ],
+        "answer": "Rowhammer",
+        "topic": "Tech"
+    },
+    {
+        "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q48)",
+        "options": [
+            "Buffer Overflow",
+            "Rowhammer",
+            "Spectre",
+            "Meltdown"
+        ],
+        "answer": "Rowhammer",
+        "topic": "Tech"
+    },
+    {
+        "question": "What is the standard deviation a measure of? (Q49)",
+        "options": [
+            "Dispersion",
+            "Central tendency",
+            "Sample size",
+            "Probability"
+        ],
+        "answer": "Dispersion",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q50)",
+        "options": [
+            "Spectre",
+            "Rowhammer",
+            "Meltdown",
+            "Buffer Overflow"
+        ],
+        "answer": "Rowhammer",
+        "topic": "Tech"
+    },
+    {
+        "question": "What is the cryptographic function used in Bitcoin mining? (Set2-Q1)",
+        "options": [
+            "SHA-1",
+            "SHA-256",
+            "MD5",
+            "SHA-3"
+        ],
+        "answer": "SHA-256",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which Indian cricketer was known as the 'Wall'? (Set2-Q2)",
+        "options": [
+            "Rahul Dravid",
+            "MS Dhoni",
+            "Kapil Dev",
+            "Sourav Ganguly"
+        ],
+        "answer": "Rahul Dravid",
+        "topic": "Sports"
+    },
+    {
+        "question": "Which consensus algorithm is used by Avalanche blockchain? (Set2-Q3)",
+        "options": [
+            "Avalanche Consensus",
+            "HotStuff",
+            "DAG",
+            "PoW"
+        ],
+        "answer": "Avalanche Consensus",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q4)",
+        "options": [
+            "Mutation",
+            "Stateful computation",
+            "Looping",
+            "Immutability"
+        ],
+        "answer": "Immutability",
+        "topic": "Tech"
+    },
+    {
+        "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q5)",
+        "options": [
+            "Keccak",
+            "BLAKE2b",
+            "Poseidon",
+            "SHA-256"
+        ],
+        "answer": "Poseidon",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which consensus algorithm is used by Avalanche blockchain? (Set2-Q6)",
+        "options": [
+            "PoW",
+            "HotStuff",
+            "DAG",
+            "Avalanche Consensus"
+        ],
+        "answer": "Avalanche Consensus",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Who holds the record for the most goals in a calendar year in football? (Set2-Q7)",
+        "options": [
+            "Robert Lewandowski",
+            "Cristiano Ronaldo",
+            "Pele",
+            "Lionel Messi"
+        ],
+        "answer": "Lionel Messi",
+        "topic": "Sports"
+    },
+    {
+        "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q8)",
+        "options": [
+            "Keccak",
+            "BLAKE2b",
+            "Poseidon",
+            "SHA-256"
+        ],
+        "answer": "Poseidon",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What is G\u00f6del\u2019s incompleteness theorem about? (Set2-Q9)",
+        "options": [
+            "No paradoxes in logic",
+            "Some truths cannot be proven",
+            "Every equation has a solution",
+            "All logic is circular"
+        ],
+        "answer": "Some truths cannot be proven",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "Who is the only athlete to play in both a Super Bowl and a World Series? (Set2-Q10)",
+        "options": [
+            "Deion Sanders",
+            "Bo Jackson",
+            "Michael Jordan",
+            "Jim Thorpe"
+        ],
+        "answer": "Deion Sanders",
+        "topic": "Sports"
+    },
+    {
+        "question": "Who holds the record for the most goals in a calendar year in football? (Set2-Q11)",
+        "options": [
+            "Robert Lewandowski",
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Pele"
+        ],
+        "answer": "Lionel Messi",
+        "topic": "Sports"
+    },
+    {
+        "question": "What is the maximum number of validators Ethereum can support concurrently? (Set2-Q12)",
+        "options": [
+            "500,000",
+            "1,000,000",
+            "262,144",
+            "65,536"
+        ],
+        "answer": "262,144",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q13)",
+        "options": [
+            "Immutability",
+            "Stateful computation",
+            "Mutation",
+            "Looping"
+        ],
+        "answer": "Immutability",
+        "topic": "Tech"
+    },
+    {
+        "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q14)",
+        "options": [
+            "Poseidon",
+            "SHA-256",
+            "Keccak",
+            "BLAKE2b"
+        ],
+        "answer": "Poseidon",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q15)",
+        "options": [
+            "SHA-256",
+            "Keccak",
+            "Poseidon",
+            "BLAKE2b"
+        ],
+        "answer": "Poseidon",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What was the first general-purpose electronic computer? (Set2-Q16)",
+        "options": [
+            "Colossus",
+            "ENIAC",
+            "UNIVAC",
+            "Z3"
+        ],
+        "answer": "ENIAC",
+        "topic": "Tech"
+    },
+    {
+        "question": "What is the cryptographic function used in Bitcoin mining? (Set2-Q17)",
+        "options": [
+            "SHA-256",
+            "SHA-3",
+            "MD5",
+            "SHA-1"
+        ],
+        "answer": "SHA-256",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Who is the only athlete to play in both a Super Bowl and a World Series? (Set2-Q18)",
+        "options": [
+            "Deion Sanders",
+            "Jim Thorpe",
+            "Bo Jackson",
+            "Michael Jordan"
+        ],
+        "answer": "Deion Sanders",
+        "topic": "Sports"
+    },
+    {
+        "question": "Which Indian cricketer was known as the 'Wall'? (Set2-Q19)",
+        "options": [
+            "Rahul Dravid",
+            "MS Dhoni",
+            "Sourav Ganguly",
+            "Kapil Dev"
+        ],
+        "answer": "Rahul Dravid",
+        "topic": "Sports"
+    },
+    {
+        "question": "What is the maximum number of validators Ethereum can support concurrently? (Set2-Q20)",
+        "options": [
+            "500,000",
+            "1,000,000",
+            "65,536",
+            "262,144"
+        ],
+        "answer": "262,144",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q21)",
+        "options": [
+            "Poseidon",
+            "BLAKE2b",
+            "Keccak",
+            "SHA-256"
+        ],
+        "answer": "Poseidon",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What was the first general-purpose electronic computer? (Set2-Q22)",
+        "options": [
+            "Z3",
+            "UNIVAC",
+            "ENIAC",
+            "Colossus"
+        ],
+        "answer": "ENIAC",
+        "topic": "Tech"
+    },
+    {
+        "question": "Which Indian cricketer was known as the 'Wall'? (Set2-Q23)",
+        "options": [
+            "Kapil Dev",
+            "MS Dhoni",
+            "Rahul Dravid",
+            "Sourav Ganguly"
+        ],
+        "answer": "Rahul Dravid",
+        "topic": "Sports"
+    },
+    {
+        "question": "Which consensus algorithm is used by Avalanche blockchain? (Set2-Q24)",
+        "options": [
+            "HotStuff",
+            "Avalanche Consensus",
+            "PoW",
+            "DAG"
+        ],
+        "answer": "Avalanche Consensus",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q25)",
+        "options": [
+            "Keccak",
+            "BLAKE2b",
+            "Poseidon",
+            "SHA-256"
+        ],
+        "answer": "Poseidon",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q26)",
+        "options": [
+            "Looping",
+            "Stateful computation",
+            "Immutability",
+            "Mutation"
+        ],
+        "answer": "Immutability",
+        "topic": "Tech"
+    },
+    {
+        "question": "What is G\u00f6del\u2019s incompleteness theorem about? (Set2-Q27)",
+        "options": [
+            "Every equation has a solution",
+            "Some truths cannot be proven",
+            "All logic is circular",
+            "No paradoxes in logic"
+        ],
+        "answer": "Some truths cannot be proven",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "What is the cryptographic function used in Bitcoin mining? (Set2-Q28)",
+        "options": [
+            "SHA-1",
+            "MD5",
+            "SHA-256",
+            "SHA-3"
+        ],
+        "answer": "SHA-256",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What was the first general-purpose electronic computer? (Set2-Q29)",
+        "options": [
+            "Colossus",
+            "ENIAC",
+            "Z3",
+            "UNIVAC"
+        ],
+        "answer": "ENIAC",
+        "topic": "Tech"
+    },
+    {
+        "question": "Which Indian cricketer was known as the 'Wall'? (Set2-Q30)",
+        "options": [
+            "Kapil Dev",
+            "Rahul Dravid",
+            "MS Dhoni",
+            "Sourav Ganguly"
+        ],
+        "answer": "Rahul Dravid",
+        "topic": "Sports"
+    },
+    {
+        "question": "Which consensus algorithm is used by Avalanche blockchain? (Set2-Q31)",
+        "options": [
+            "DAG",
+            "Avalanche Consensus",
+            "PoW",
+            "HotStuff"
+        ],
+        "answer": "Avalanche Consensus",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q32)",
+        "options": [
+            "Keccak",
+            "SHA-256",
+            "BLAKE2b",
+            "Poseidon"
+        ],
+        "answer": "Poseidon",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Who is the only athlete to play in both a Super Bowl and a World Series? (Set2-Q33)",
+        "options": [
+            "Deion Sanders",
+            "Michael Jordan",
+            "Jim Thorpe",
+            "Bo Jackson"
+        ],
+        "answer": "Deion Sanders",
+        "topic": "Sports"
+    },
+    {
+        "question": "Who is the only athlete to play in both a Super Bowl and a World Series? (Set2-Q34)",
+        "options": [
+            "Deion Sanders",
+            "Michael Jordan",
+            "Jim Thorpe",
+            "Bo Jackson"
+        ],
+        "answer": "Deion Sanders",
+        "topic": "Sports"
+    },
+    {
+        "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q35)",
+        "options": [
+            "Keccak",
+            "BLAKE2b",
+            "Poseidon",
+            "SHA-256"
+        ],
+        "answer": "Poseidon",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What kind of hash function does zk-SNARKs often use for efficiency? (Set2-Q36)",
+        "options": [
+            "Keccak",
+            "Poseidon",
+            "SHA-256",
+            "BLAKE2b"
+        ],
+        "answer": "Poseidon",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What was the first general-purpose electronic computer? (Set2-Q37)",
+        "options": [
+            "Colossus",
+            "UNIVAC",
+            "Z3",
+            "ENIAC"
+        ],
+        "answer": "ENIAC",
+        "topic": "Tech"
+    },
+    {
+        "question": "What was the first general-purpose electronic computer? (Set2-Q38)",
+        "options": [
+            "ENIAC",
+            "Colossus",
+            "UNIVAC",
+            "Z3"
+        ],
+        "answer": "ENIAC",
+        "topic": "Tech"
+    },
+    {
+        "question": "Which consensus algorithm is used by Avalanche blockchain? (Set2-Q39)",
+        "options": [
+            "PoW",
+            "HotStuff",
+            "Avalanche Consensus",
+            "DAG"
+        ],
+        "answer": "Avalanche Consensus",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q40)",
+        "options": [
+            "Immutability",
+            "Mutation",
+            "Looping",
+            "Stateful computation"
+        ],
+        "answer": "Immutability",
+        "topic": "Tech"
+    },
+    {
+        "question": "Which Indian cricketer was known as the 'Wall'? (Set2-Q41)",
+        "options": [
+            "Sourav Ganguly",
+            "Rahul Dravid",
+            "Kapil Dev",
+            "MS Dhoni"
+        ],
+        "answer": "Rahul Dravid",
+        "topic": "Sports"
+    },
+    {
+        "question": "Who holds the record for the most goals in a calendar year in football? (Set2-Q42)",
+        "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Robert Lewandowski",
+            "Pele"
+        ],
+        "answer": "Lionel Messi",
+        "topic": "Sports"
+    },
+    {
+        "question": "Who is the only athlete to play in both a Super Bowl and a World Series? (Set2-Q43)",
+        "options": [
+            "Deion Sanders",
+            "Jim Thorpe",
+            "Bo Jackson",
+            "Michael Jordan"
+        ],
+        "answer": "Deion Sanders",
+        "topic": "Sports"
+    },
+    {
+        "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q44)",
+        "options": [
+            "Immutability",
+            "Mutation",
+            "Looping",
+            "Stateful computation"
+        ],
+        "answer": "Immutability",
+        "topic": "Tech"
+    },
+    {
+        "question": "What is G\u00f6del\u2019s incompleteness theorem about? (Set2-Q45)",
+        "options": [
+            "Some truths cannot be proven",
+            "Every equation has a solution",
+            "No paradoxes in logic",
+            "All logic is circular"
+        ],
+        "answer": "Some truths cannot be proven",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "What is G\u00f6del\u2019s incompleteness theorem about? (Set2-Q46)",
+        "options": [
+            "All logic is circular",
+            "No paradoxes in logic",
+            "Some truths cannot be proven",
+            "Every equation has a solution"
+        ],
+        "answer": "Some truths cannot be proven",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q47)",
+        "options": [
+            "Stateful computation",
+            "Looping",
+            "Mutation",
+            "Immutability"
+        ],
+        "answer": "Immutability",
+        "topic": "Tech"
+    },
+    {
+        "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q48)",
+        "options": [
+            "Immutability",
+            "Mutation",
+            "Stateful computation",
+            "Looping"
+        ],
+        "answer": "Immutability",
+        "topic": "Tech"
+    },
+    {
+        "question": "Which programming paradigm does functional programming rely heavily on? (Set2-Q49)",
+        "options": [
+            "Looping",
+            "Mutation",
+            "Stateful computation",
+            "Immutability"
+        ],
+        "answer": "Immutability",
+        "topic": "Tech"
+    },
+    {
+        "question": "What is G\u00f6del\u2019s incompleteness theorem about? (Set2-Q50)",
+        "options": [
+            "Every equation has a solution",
+            "No paradoxes in logic",
+            "All logic is circular",
+            "Some truths cannot be proven"
+        ],
+        "answer": "Some truths cannot be proven",
+        "topic": "General Knowledge"
+    }
+
+]

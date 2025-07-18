@@ -1,0 +1,114 @@
+[
+    
+    {
+        "question": "Which team has won the most UEFA Champions League titles? (Q3)",
+        "options": [
+            "AC Milan",
+            "Real Madrid",
+            "Liverpool",
+            "Barcelona"
+        ],
+        "answer": "Real Madrid",
+        "topic": "Sports"
+    },
+    {
+        "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q4)",
+        "options": [
+            "Meltdown",
+            "Rowhammer",
+            "Spectre",
+            "Buffer Overflow"
+        ],
+        "answer": "Rowhammer",
+        "topic": "Tech"
+    },
+    {
+        "question": "What mechanism allows Solana to achieve high throughput? (Q5)",
+        "options": [
+            "Proof of Stake",
+            "DAG Consensus",
+            "Proof of History",
+            "Proof of Authority"
+        ],
+        "answer": "Proof of History",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What protocol does Ethereum use for peer-to-peer communication? (Q6)",
+        "options": [
+            "UDP",
+            "TCP",
+            "LibP2P",
+            "gRPC"
+        ],
+        "answer": "LibP2P",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which cryptographic primitive enables Ethereum's zk-Rollups to validate transactions without revealing inputs? (Q7)",
+        "options": [
+            "Zero-Knowledge Proofs",
+            "BLS Signatures",
+            "Digital Signatures",
+            "SHA-256"
+        ],
+        "answer": "Zero-Knowledge Proofs",
+        "topic": "Crypto"
+    },
+    {
+        "question": "What is the purpose of a nonce in blockchain mining? (Q8)",
+        "options": [
+            "Generate unique hashes",
+            "Encrypt data",
+            "Random reward selection",
+            "Prevent DoS"
+        ],
+        "answer": "Generate unique hashes",
+        "topic": "Crypto"
+    },
+    {
+        "question": "Which civilization built the earliest known system of writing called cuneiform? (Q9)",
+        "options": [
+            "Babylonians",
+            "Sumerians",
+            "Assyrians",
+            "Egyptians"
+        ],
+        "answer": "Sumerians",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "Which country won the first-ever FIFA World Cup? (Q10)",
+        "options": [
+            "Brazil",
+            "Uruguay",
+            "Italy",
+            "Germany"
+        ],
+        "answer": "Uruguay",
+        "topic": "Sports"
+    },
+    {
+        "question": "Which civilization built the earliest known system of writing called cuneiform? (Q11)",
+        "options": [
+            "Egyptians",
+            "Assyrians",
+            "Babylonians",
+            "Sumerians"
+        ],
+        "answer": "Sumerians",
+        "topic": "General Knowledge"
+    },
+    {
+        "question": "Which country won the first-ever FIFA World Cup? (Q12)",
+        "options": [
+            "Uruguay",
+            "Brazil",
+            "Italy",
+            "Germany"
+        ],
+        "answer": "Uruguay",
+        "topic": "Sports"
+    }
+
+]

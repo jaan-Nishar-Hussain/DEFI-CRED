@@ -1,0 +1,192 @@
+{
+  "merkleRoot": "0x92d0998cd26470b83662e6c537d92593e469c613402b8395cbf2b4cfe8b03b24",
+  "questions": [
+    {
+      "question": "Which team has won the most UEFA Champions League titles? (Q3)",
+      "options": [
+        "AC Milan",
+        "Real Madrid",
+        "Liverpool",
+        "Barcelona"
+      ],
+      "answer": "Real Madrid",
+      "topic": "Sports",
+      "id": "Q1",
+      "correctAnswer": 1,
+      "merkleProof": [
+        "0xb02888047b1c32e41cf9538ef85c218c06df28cfe359db89a8890713fe19092b",
+        "0x177fc2b0ae24e9727258bb2a89c8df9a42272a093e0b9da4bb65699758f7be4f",
+        "0x186c2576c6181596f22e43b960401b59d907785de32697e5a0bd2b0313eeb798",
+        "0x031fea3d54cff6159ff1f06ad5ab0469d4337c0ffe59eebb80872cbb0d16b030"
+      ]
+    },
+    {
+      "question": "Which attack exploits the time delay in accessing DRAM to leak memory contents? (Q4)",
+      "options": [
+        "Meltdown",
+        "Rowhammer",
+        "Spectre",
+        "Buffer Overflow"
+      ],
+      "answer": "Rowhammer",
+      "topic": "Tech",
+      "id": "Q2",
+      "correctAnswer": 1,
+      "merkleProof": [
+        "0x77731bf4c8ac3d20d1ce70e9825a2b0eca052156994362d5ff80f289195afa76",
+        "0x177fc2b0ae24e9727258bb2a89c8df9a42272a093e0b9da4bb65699758f7be4f",
+        "0x186c2576c6181596f22e43b960401b59d907785de32697e5a0bd2b0313eeb798",
+        "0x031fea3d54cff6159ff1f06ad5ab0469d4337c0ffe59eebb80872cbb0d16b030"
+      ]
+    },
+    {
+      "question": "What mechanism allows Solana to achieve high throughput? (Q5)",
+      "options": [
+        "Proof of Stake",
+        "DAG Consensus",
+        "Proof of History",
+        "Proof of Authority"
+      ],
+      "answer": "Proof of History",
+      "topic": "Crypto",
+      "id": "Q3",
+      "correctAnswer": 2,
+      "merkleProof": [
+        "0x03be9fbfc1421eaa4a9d96e6c676ba6cbd1fb55ccb45b0693d913ca4d925c0d7",
+        "0xe3f3b564b09f89ce0f6ede4f3389d72ce4db1c8b2dbaa10535754c92f0294cfe",
+        "0x186c2576c6181596f22e43b960401b59d907785de32697e5a0bd2b0313eeb798",
+        "0x031fea3d54cff6159ff1f06ad5ab0469d4337c0ffe59eebb80872cbb0d16b030"
+      ]
+    },
+    {
+      "question": "What protocol does Ethereum use for peer-to-peer communication? (Q6)",
+      "options": [
+        "UDP",
+        "TCP",
+        "LibP2P",
+        "gRPC"
+      ],
+      "answer": "LibP2P",
+      "topic": "Crypto",
+      "id": "Q4",
+      "correctAnswer": 2,
+      "merkleProof": [
+        "0x3b9a22b3c0d31ea6c40dfb049894ed687f783057f6f8f514d1223b00225d2997",
+        "0xe3f3b564b09f89ce0f6ede4f3389d72ce4db1c8b2dbaa10535754c92f0294cfe",
+        "0x186c2576c6181596f22e43b960401b59d907785de32697e5a0bd2b0313eeb798",
+        "0x031fea3d54cff6159ff1f06ad5ab0469d4337c0ffe59eebb80872cbb0d16b030"
+      ]
+    },
+    {
+      "question": "Which cryptographic primitive enables Ethereum's zk-Rollups to validate transactions without revealing inputs? (Q7)",
+      "options": [
+        "Zero-Knowledge Proofs",
+        "BLS Signatures",
+        "Digital Signatures",
+        "SHA-256"
+      ],
+      "answer": "Zero-Knowledge Proofs",
+      "topic": "Crypto",
+      "id": "Q5",
+      "correctAnswer": 0,
+      "merkleProof": [
+        "0x8e4d28343ffe6acb143e57a9799265966a0d8db206531889f1fadfb1e2b564e2",
+        "0x39fb0abeeabcb3e08677d9d27bad25374e182dd037c1ef6a1662f0b37f3fdd85",
+        "0x1bb36f5a87c82b66869fedab8c93f982cb702302396c6075f4ad4917505288d9",
+        "0x031fea3d54cff6159ff1f06ad5ab0469d4337c0ffe59eebb80872cbb0d16b030"
+      ]
+    },
+    {
+      "question": "What is the purpose of a nonce in blockchain mining? (Q8)",
+      "options": [
+        "Generate unique hashes",
+        "Encrypt data",
+        "Random reward selection",
+        "Prevent DoS"
+      ],
+      "answer": "Generate unique hashes",
+      "topic": "Crypto",
+      "id": "Q6",
+      "correctAnswer": 0,
+      "merkleProof": [
+        "0x62a9a8c74d609fd1e80ac0e81ccf65f98b35e584b67074903b43feaddfdb9ad1",
+        "0x39fb0abeeabcb3e08677d9d27bad25374e182dd037c1ef6a1662f0b37f3fdd85",
+        "0x1bb36f5a87c82b66869fedab8c93f982cb702302396c6075f4ad4917505288d9",
+        "0x031fea3d54cff6159ff1f06ad5ab0469d4337c0ffe59eebb80872cbb0d16b030"
+      ]
+    },
+    {
+      "question": "Which civilization built the earliest known system of writing called cuneiform? (Q9)",
+      "options": [
+        "Babylonians",
+        "Sumerians",
+        "Assyrians",
+        "Egyptians"
+      ],
+      "answer": "Sumerians",
+      "topic": "General Knowledge",
+      "id": "Q7",
+      "correctAnswer": 1,
+      "merkleProof": [
+        "0x5b5bf1ef6ddf2220943d19f420d699abffb84907827b960c0e1e3b4b48275ed8",
+        "0x5c3bddc6d2c80faacfb8104d5fd06ea2f8e22018171c487fbd3ca4c5a2c6819f",
+        "0x1bb36f5a87c82b66869fedab8c93f982cb702302396c6075f4ad4917505288d9",
+        "0x031fea3d54cff6159ff1f06ad5ab0469d4337c0ffe59eebb80872cbb0d16b030"
+      ]
+    },
+    {
+      "question": "Which country won the first-ever FIFA World Cup? (Q10)",
+      "options": [
+        "Brazil",
+        "Uruguay",
+        "Italy",
+        "Germany"
+      ],
+      "answer": "Uruguay",
+      "topic": "Sports",
+      "id": "Q8",
+      "correctAnswer": 1,
+      "merkleProof": [
+        "0x3e21d3e79e55b14dd4c74f68274e0290f9bf30f42d992c4a6e308545beaae82e",
+        "0x5c3bddc6d2c80faacfb8104d5fd06ea2f8e22018171c487fbd3ca4c5a2c6819f",
+        "0x1bb36f5a87c82b66869fedab8c93f982cb702302396c6075f4ad4917505288d9",
+        "0x031fea3d54cff6159ff1f06ad5ab0469d4337c0ffe59eebb80872cbb0d16b030"
+      ]
+    },
+    {
+      "question": "Which civilization built the earliest known system of writing called cuneiform? (Q11)",
+      "options": [
+        "Egyptians",
+        "Assyrians",
+        "Babylonians",
+        "Sumerians"
+      ],
+      "answer": "Sumerians",
+      "topic": "General Knowledge",
+      "id": "Q9",
+      "correctAnswer": 3,
+      "merkleProof": [
+        "0x115d97096bc03f09a24fb0fddcb7f8de7cbc7b08be174924137333ece87501f4",
+        "0x7f64a6f067f04d1cde8692432a294f3204a48b9ad3ad6881c3dfb58f0a7a17e5"
+      ]
+    },
+    {
+      "question": "Which country won the first-ever FIFA World Cup? (Q12)",
+      "options": [
+        "Uruguay",
+        "Brazil",
+        "Italy",
+        "Germany"
+      ],
+      "answer": "Uruguay",
+      "topic": "Sports",
+      "id": "Q10",
+      "correctAnswer": 0,
+      "merkleProof": [
+        "0x465065e613bf371ef89b6fc458cb67116de9f597645154d5bdc1bc663bff3d2b",
+        "0x7f64a6f067f04d1cde8692432a294f3204a48b9ad3ad6881c3dfb58f0a7a17e5"
+      ]
+    }
+  ],
+  "timestamp": "2025-07-17T18:38:06.589Z"
+}

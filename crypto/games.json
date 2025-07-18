@@ -1,0 +1,16 @@
+[
+  {
+    "gameId": "crypto-1752777965734",
+    "gameType": "crypto",
+    "entryFee": "50000000000000000",
+    "rewardMultiplier": 20000,
+    "platformFee": 300,
+    "deadline": 1752785165,
+    "predictionType": 0,
+    "priceMin": 0,
+    "priceMax": 0,
+    "fundAmount": "2000000000000000000",
+    "currentPriceAtCreation": "11977499000000",
+    "timestamp": "2025-07-17T18:46:15.581Z"
+  }
+]

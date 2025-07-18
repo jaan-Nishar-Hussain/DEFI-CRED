@@ -1,0 +1,12 @@
+[
+  {
+    "gameId": "quiz-1752777566788",
+    "entryFee": "100000000000000000",
+    "rewardMultiplier": 15000,
+    "platformFee": 500,
+    "deadline": 1752781166,
+    "fundAmount": "1000000000000000000",
+    "merkleRoot": "0x92d0998cd26470b83662e6c537d92593e469c613402b8395cbf2b4cfe8b03b24",
+    "timestamp": "2025-07-17T18:39:35.587Z"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "network": "polygonAmoy",
+  "priceFeed": "0xe7656e23fE8077D438aEfbec2fAbDf2D8e070C4f",
+  "predictorContract": "0x4F7A040D213bcdB8c9b22e6b18eED68A9BD4047C",
+  "admin": "0x13E75682380D3c6994B0a939d5564258d19A8477",
+  "merkleRoot": "0x92d0998cd26470b83662e6c537d92593e469c613402b8395cbf2b4cfe8b03b24",
+  "timestamp": "2025-07-17T17:48:22.119Z"
+}

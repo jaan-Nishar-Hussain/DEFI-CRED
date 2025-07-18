@@ -1,120 +1,85 @@
-// We require the Hardhat Runtime Environment explicitly here. This is optional
-// but useful for running the script in a standalone fashion through `node <script>`.
-const hre = require("hardhat");
-const fs = require("fs");
-
-// Price feeds for different networks
-const PRICE_FEEDS = {
-  // Testnet addresses
-  polygonAmoy: "0x694AA1769357215DE4FAC081bf1f309aDC325306", // Using Sepolia ETH/USD as a replacement
-  
-  // Local development
-  hardhat: "MOCK", // Will deploy a mock
-  localhost: "MOCK", // Will deploy a mock
-};
+const { ethers, network } = require("hardhat");
 
 async function main() {
-  console.log("Starting deployment process...");
-  
-  // Get the network we're deploying to
-  const networkName = hre.network.name;
-  console.log(`Deploying to ${networkName} network...`);
-  
+  console.log("Starting deployment...");
+  console.log("Network:", network.name);
+
   let priceFeedAddress;
-  let mockAggregator;
-  
-  // Check if we need to deploy a mock or use an existing price feed
-  if (PRICE_FEEDS[networkName] === "MOCK") {
-    console.log("Deploying MockAggregator for local development...");
-    const MockAggregator = await hre.ethers.getContractFactory("MockAggregator");
-    mockAggregator = await MockAggregator.deploy();
-    await mockAggregator.waitForDeployment();
-    
-    priceFeedAddress = await mockAggregator.getAddress();
-    console.log(`MockAggregator deployed to: ${priceFeedAddress}`);
-    
-    // Initialize price in mock (optional)
-    const initialPrice = 200000000000; // $2000 with 8 decimals
-    await mockAggregator.setPrice(initialPrice);
-    console.log(`MockAggregator price initialized to: $${initialPrice / 100000000}`);
+
+  // Deploy MockPriceFeed for local testing, use real price feed for testnet
+  if (network.name === "hardhat" || network.name === "localhost") {
+    console.log("Deploying Mock Price Feed...");
+    const PriceFeedMock = await ethers.getContractFactory("MockAggregator");
+    const priceFeedMock = await PriceFeedMock.deploy(350000000000); // Initial price $3500
+    await priceFeedMock.waitForDeployment();
+    priceFeedAddress = await priceFeedMock.getAddress();
+    console.log("MockAggregator deployed to:", priceFeedAddress);
+  } else if (network.name === "polygonAmoy") {
+    // Polygon Amoy testnet ETH/USD price feed
+    priceFeedAddress = "0xe7656e23fE8077D438aEfbec2fAbDf2D8e070C4f";
+    console.log("Using Chainlink Price Feed at:", priceFeedAddress);
   } else {
-    // Use the network-specific price feed
-    priceFeedAddress = PRICE_FEEDS[networkName];
-    if (!priceFeedAddress) {
-      throw new Error(`No price feed configured for network: ${networkName}`);
-    }
-    console.log(`Using ${networkName} ETH/USD price feed at: ${priceFeedAddress}`);
+    throw new Error("Unsupported network. Please use hardhat, localhost, or polygonAmoy");
   }
 
   // Deploy DeFiPredictorV2
-  const DeFiPredictorV2 = await hre.ethers.getContractFactory("DeFiPredictorV2");
-  const deFiPredictor = await DeFiPredictorV2.deploy(priceFeedAddress);
-  await deFiPredictor.waitForDeployment();
+  console.log("Deploying DeFiPredictorV2...");
+  const DeFiPredictorV2 = await ethers.getContractFactory("DeFiPredictorV2");
+  const predictor = await DeFiPredictorV2.deploy(priceFeedAddress);
+  await predictor.waitForDeployment();
 
-  const deFiPredictorAddress = await deFiPredictor.getAddress();
-  const deployTx = deFiPredictor.deploymentTransaction();
+  console.log("DeFiPredictorV2 deployed to:", await predictor.getAddress());
+  console.log("Admin address:", await predictor.admin());
   
-  console.log(`DeFiPredictorV2 deployed to: ${deFiPredictorAddress}`);
-  console.log(`Transaction hash: ${deployTx.hash}`);
-  
-  // Get deployer address
-  const [deployer] = await hre.ethers.getSigners();
-  console.log(`Deployed by: ${deployer.address}`);
+  // Verify contract on testnet
+  if (network.name === "polygonAmoy") {
+    console.log("Waiting for 5 block confirmations before verification...");
+    // Wait for 5 block confirmations
+    const receipt = await predictor.deploymentTransaction().wait(5);
 
-  // For public networks, verify the contract on the explorer (Etherscan/Polygonscan)
-  if (networkName !== "hardhat" && networkName !== "localhost") {
-    console.log(`Waiting for block confirmations on ${networkName}...`);
+    console.log("Verifying contract on Polygonscan...");
     try {
-      // Wait for 6 blocks to ensure the transaction is confirmed
-      await hre.ethers.provider.waitForTransaction(deployTx.hash, 6);
-      
-      console.log(`Verifying contract on ${networkName === "polygonAmoy" ? "Polygonscan" : "Etherscan"}...`);
       await hre.run("verify:verify", {
-        address: deFiPredictorAddress,
+        address: await predictor.getAddress(),
         constructorArguments: [priceFeedAddress],
       });
-      console.log("Contract verified successfully!");
+      console.log("Contract verified successfully");
     } catch (error) {
-      console.error("Error during verification:", error.message);
-      console.log("You may need to verify the contract manually.");
+      console.log("Verification failed:", error.message);
     }
   }
 
-  // Save deployment info
+  // Output deployment information
   const deploymentInfo = {
-    network: networkName,
-    deFiPredictor: deFiPredictorAddress,
+    network: network.name,
     priceFeed: priceFeedAddress,
-    admin: deployer.address,
-    deployedAt: new Date().toISOString(),
-    txHash: deployTx ? deployTx.hash : null
+    predictorContract: await predictor.getAddress(),
+    admin: await predictor.admin(),
+    merkleRoot: ethers.ZeroHash, // Initial merkle root (empty)
+    timestamp: new Date().toISOString()
   };
 
-  // Add mock address if we deployed one
-  if (mockAggregator) {
-    deploymentInfo.mockAggregator = priceFeedAddress;
+  console.log("\nDeployment Info:", deploymentInfo);
+  
+  // Save deployment info to a file
+  const fs = require("fs");
+  const deploymentPath = `deployments/${network.name}.json`;
+  
+  // Create deployments directory if it doesn't exist
+  if (!fs.existsSync("deployments")) {
+    fs.mkdirSync("deployments");
   }
 
-  const deploymentInfoPath = `./deployment-info-${networkName}.json`;
   fs.writeFileSync(
-    deploymentInfoPath,
+    deploymentPath,
     JSON.stringify(deploymentInfo, null, 2)
   );
-  console.log(`Deployment information saved to ${deploymentInfoPath}`);
-
-  // Also update the main deployment-info.json
-  fs.writeFileSync(
-    './deployment-info.json',
-    JSON.stringify(deploymentInfo, null, 2)
-  );
-  console.log("Deployment information saved to deployment-info.json");
-
-  console.log(`Deployment to ${networkName} completed successfully!`);
+  console.log(`\nDeployment info saved to ${deploymentPath}`);
 }
 
-// We recommend this pattern to be able to use async/await everywhere
-// and properly handle errors.
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+main()
+  .then(() => process.exit(0))
+  .catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });

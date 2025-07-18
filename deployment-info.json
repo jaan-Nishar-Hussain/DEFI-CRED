@@ -1,8 +1,0 @@
-{
-  "network": "polygonAmoy",
-  "deFiPredictor": "0x5719be596f1D110CBB212F02c7393896d41887a3",
-  "priceFeed": "0x694AA1769357215DE4FAC081bf1f309aDC325306",
-  "admin": "0x13E75682380D3c6994B0a939d5564258d19A8477",
-  "deployedAt": "2025-07-08T20:21:57.394Z",
-  "txHash": "0xa7cff01ded0d5ed635a07a9062939f3663c7a1f868635abd0d6d16ea95ff9267"
-}
